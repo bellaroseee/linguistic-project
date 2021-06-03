@@ -1,0 +1,23 @@
+Kabar baik datang dari Universitas Gadjah Mada atau UGM, alat Sistem Peringatan Dini atau Early Warning System, disingkat EWS, yang dikembangkan oleh tim peneliti UGM berhasil mendeteksi gempa yang terjadi di Toli-Toli, Sulawesi Tengah tiga hari sebelum kejadian. Hal ini diungkapkan oleh Ketua Tim Peneliti Sistem Peringatan Dini (EWS) Gempa UGM, Prof. Ir. Sunarno, pada Rabu, 2 Juni 2021.
+
+Dilansir dari laman resmi UGM, Sunarno mengatakan alat deteksi gempa hasil pengembangan tim EWS Gempa UGM tersebut merupakan teknologi triangulasi yang dapat memprediksi episentrum atau titik pusat gempa secara lebih presisi. Hal ini terbukti selama proses riset dan pengembangan yang dilakukan oleh tim, alat EWS Gempa buatan UGM tersebut selalu berhasil memberikan prediksi kejadian gempa.
+
+“Selalu cocok, sudah dipakai tesis mahasiswa saya. Bahkan, lewat internet kita bisa bantu memberi peringatan tiga hari sebelum kejadian gempa di antara Aceh hingga NTT,” kata Sumarno.
+
+Lebih dari itu, bahkan Sunarno mengklaim alat pendeteksi gempa buatan UGM tersebut mampu mendeteksi tiga sampai tujuh hari sebelum gempa terjadi. Untuk lokasi antara Aceh dan NTT, Sunarno mengatakan alat tersebut mampu memprediksi gempa tiga hari sebelum kejadian, sementara untuk wilayah Daerah Istimewa atau DI Yogyakarta, lokasi di mana alat tersebut dipasang, EWS Gempa UGM dapat memprediksi kejadian gempa tujuh hari sebelumnya.
+
+“Algoritma awal kami hanya mendeteksi dini 3-7 hari sebelum gempa khusus untuk DIY. Mengingat stasiun pemantau kami hanya ada di DIY,” katanya.
+
+Meski telah memiliki reputasi baik selama riset dan uji coba, Tim Peneliti Sistem Peringatan Dini Gempa UGM terus melakukan pengembangan terhadap alat ini. EWS yang dikembangkan oleh Sunarno dan tim merupakan komponen yang terdiri dari detektor yang dirancang untuk mendeteksi perubahan lever air tanah dan gas radon, selain itu juga ada komponen yang disebut dengan pengkondisi sinyal, kontroler, dan sumber daya listrik, serta komponen yang tak kalah penting yaitu penyimpan data. Alat EWS Gempa UGM ini juga memanfaatkan teknologi Internet of Thing atau IoT.
+
+Lebih lanjut, Sunarno menjelaskan cara kerja alat yang dikembangkan bersama timnya ini. Alat tersebut mendeteksi anomali alam sebelum terjadinya gempa yang biasanya ditandai dengan perubahan perbedaan konsentrasi gas radon dan level air tanah. Apabila paparan gas radon alam dari tanah meningkat dan permukaan air mengalami naik turun secara signifikan, hal tersebut menandakan sedang terjadi gejala gempa tektonik.
+
+“Apabila akan terjadi gempa di lempengan, akan muncul fenomena paparan gas radon alam dari tanah meningkat secara signifikan. Demikian juga permukaan air tanah naik turun secara signifikan,” papar Sunarno, dikutip dari laman UGM.
+
+Secara khusus, penelitian sejak 2018 ini memang mengamati konsentrasi gas radon dan level air tanah untuk memprediksi terjadinya gempa bumi. Hasil pengamatan kemudian dikembangkan dan dirumuskan dalam suatu algoritma yang disebut dengan algoritma prediksi sistem peringatan dini gempa bumi.
+
+Dilansir dari Badan Meteorologi, Klimatologi, dan Geofisika atau BMKG, wilayah Toli-Toli, Sulawesi Tengah diguncang gempa tektonik dengan kekuatan gempa 5.3 magnitudo pada Sabtu, 29 Mei pukul 08.25 WIB. BMKG mengonfirmasi titik gempa berada di 1.07 Lintang Utara atau LU, 120.02 Bujur Timur atau BT, episentrum tersebut berada kedalaman 27 kilometer dan berjarak 84 kilometer barat laut dari Toli-Toli, Sulawesi Tengah.
+
+Selain mampu memprediksi gempa bumi di Toli-Toli, Sulawesi Tengah, tiga hari sebelum kejadian, alat ini juga tercatat terbukti mampu memprediksi gempa bumi lainnya yang terjadi baru-baru ini di sejumlah wilayah tanah air. Sebut saja gempa bumi di Barat Daya Bengkulu dengan magnitudo 5,1 pada 29 Agustus 2020, serta gempa bumi sehari sebelumnya di Barat Bengkulu dengan Magnitudo 5.2 pada 28 2020. EWS Gempa UGM juga tercatat berhasil memprediksi gempa bumi di Barat Daya Sumur, Banten dengan magnitudo 5.3 pada 26 September 2020.
+
+Bahkan alat ini juga berhasil memprediksi gempa di wilayah jauh dari DIY, yaitu nun jauh di Aceh, gempa berkekuatan 5.0 magnitudo di Barat Daya Sinabang, Aceh pada 1 September 2020, dan gempa bumi yang terjadi di Nagan Raya, Aceh dengan magnitudo 5.4 pada 14 September 2020. Selain itu, alat buatan peneliti dari UGM ini juga berhasil memprediksi gempa bumi berkekuatan 5.1 magnitudo yang terjadi di Barat Daya Pacitan pada 10 September 2020 lalu.
