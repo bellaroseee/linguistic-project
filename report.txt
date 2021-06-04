@@ -1,0 +1,524 @@
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Banyak', 'CD'), ('orang', 'NN'), ('menduga', 'VB'), ('mereka', 'PRP'), ('ingin', 'RB'), ('membujuk', 'VB'), ('para', 'DT'), ('tamu', 'NN'), ('agar', 'SC'), ('lebih', 'RB'), ('banyak', 'CD'), ('menyumbang', 'VB'), ('untuk', 'IN'), ('amal', 'NN'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Licia', 'NNP'), ('Ronzulli', 'NNP'), ('mengatakan', 'VB'), ('ia', 'PRP'), ('ingin', 'RB'), ('menunjukkan', 'VB'), ('berat', 'JJ'), ('-nya', 'PRP'), ('beban', 'NN'), ('yang', 'SC'), ('ditanggung', 'VB'), ('kaum', 'NN'), ('perempuan', 'NN'), ('untuk', 'SC'), ('menjalani', 'VB'), ('karir', 'NN'), ('sekaligus', 'RB'), ('mengasuh', 'VB'), ('anak', 'NN'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Ia', 'PRP'), ('mengatakan', 'VB'), ('kepada', 'IN'), ('rekan', 'NN'), ('-nya', 'PRP'), ('sesama', 'NN'), ('anggota', 'NN'), ('parlemen', 'NN'), (':', 'Z'), ('"', 'Z'), ('Saya', 'PRP'), ('ingin', 'RB'), ('melihat', 'VB'), ('komitmen', 'NN'), ('yang', 'SC'), ('lebih', 'RB'), ('besar', 'JJ'), ('untuk', 'IN'), ('persoalan-persoalan', 'NN'), ('ini', 'PR'), ('dari', 'IN'), ('lembaga-lembaga', 'NN'), ('Eropa', 'NNP'), (',', 'Z'), ('dimulai', 'VB'), ('dari', 'IN'), ('dalam', 'NN'), ('Parlemen', 'NNP'), ('Eropa', 'NNP'), ('sendiri', 'NN'), ('.', 'Z'), ('"', 'Z')]
+
+the word senang is a modal but not tagged as MD
+	senang is classified as JJ
+	in sentence [('Ilyas', 'NNP'), ('Khan', 'NNP'), ('mengatakan', 'VB'), (',', 'Z'), ('"', 'Z'), ('The', 'NNP'), ('Asia', 'NNP'), ('Literary', 'NNP'), ('Review', 'NNP'), ('pernah', 'MD'), ('mendukung', 'VB'), ('berbagai', 'CD'), ('festival', 'NN'), ('buku', 'NN'), ('tetapi', 'CC'), ('saya', 'PRP'), ('harus', 'MD'), ('mengatakan', 'VB'), ('bahwa', 'SC'), ('saya', 'PRP'), ('sangat', 'RB'), ('senang', 'JJ'), ('kami', 'PRP'), ('ikut', 'VB'), ('dalam', 'IN'), ('Festival', 'NNP'), ('Wigtown', 'NNP'), ('ini', 'PR'), ('.', 'Z'), ('"', 'Z')]
+
+the word ikut is a modal but not tagged as MD
+	ikut is classified as VB
+	in sentence [('Ilyas', 'NNP'), ('Khan', 'NNP'), ('mengatakan', 'VB'), (',', 'Z'), ('"', 'Z'), ('The', 'NNP'), ('Asia', 'NNP'), ('Literary', 'NNP'), ('Review', 'NNP'), ('pernah', 'MD'), ('mendukung', 'VB'), ('berbagai', 'CD'), ('festival', 'NN'), ('buku', 'NN'), ('tetapi', 'CC'), ('saya', 'PRP'), ('harus', 'MD'), ('mengatakan', 'VB'), ('bahwa', 'SC'), ('saya', 'PRP'), ('sangat', 'RB'), ('senang', 'JJ'), ('kami', 'PRP'), ('ikut', 'VB'), ('dalam', 'IN'), ('Festival', 'NNP'), ('Wigtown', 'NNP'), ('ini', 'PR'), ('.', 'Z'), ('"', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('"', 'Z'), ('Kami', 'PRP'), ('ingin', 'RB'), ('mengadukan', 'VB'), ('-nya', 'PRP'), ('dan', 'CC'), ('melakukan', 'VB'), ('sesuatu', 'PRP'), ('untuk', 'SC'), ('mengoreksi', 'VB'), ('-nya', 'PRP'), ('.', 'Z'), ('"', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Namun', 'CC'), (',', 'Z'), ('juru bicara', 'NNP'), ('Wingnut', 'NNP'), ('mengatakan', 'VB'), ('mereka', 'PRP'), ('ingin', 'RB'), ('"', 'Z'), ('bersiap-siap', 'VB'), ('"', 'Z'), ('.', 'Z')]
+
+the word akan is a modal but not tagged as MD
+	akan is classified as IN
+	in sentence [('Cavaille', 'NNP'), ('sangat', 'RB'), ('marah', 'JJ'), ('dengan', 'IN'), ('peristiwa', 'NN'), ('tersebut', 'PR'), ('dan', 'CC'), ('mengatakan', 'VB'), ('tidak', 'NEG'), ('tahu', 'VB'), ('sama sekali', 'RB'), ('akan', 'IN'), ('siapa', 'SC'), ('yang', 'SC'), ('kira-kira', 'RB'), ('melakukan', 'VB'), ('pencurian', 'NN'), ('.', 'Z')]
+
+the word dapat is a modal but not tagged as MD
+	dapat is classified as VB
+	in sentence [('Kontes', 'NN'), ('karaoke', 'NN'), ('dapat', 'VB'), ('sejuta', 'CD'), ('pangsit', 'NN')]
+
+the word ikut is a modal but not tagged as MD
+	ikut is classified as VB
+	in sentence [('"', 'Z'), ('Kita', 'PRP'), ('juga', 'RB'), ('tahu', 'VB'), ('bahwa', 'SC'), ('sponsor', 'NN'), ('pabrik', 'NN'), ('rokok', 'NN'), ('kepada', 'IN'), ('olahraga', 'NN'), ('ikut', 'VB'), ('mempengaruhi', 'VB'), ('anak-anak', 'NN'), ('untuk', 'SC'), ('merokok', 'VB'), ('.', 'Z'), ('Jadi', 'SC'), ('panutan', 'NN'), ('yang', 'SC'), ('negatif', 'JJ'), (',', 'Z'), ('termasuk', 'VB'), ('olahragawan', 'NN'), (',', 'Z'), ('memiliki', 'VB'), ('efek', 'NN'), ('yang', 'SC'), ('kurang', 'RB'), ('baik', 'JJ'), ('.', 'Z'), ('"', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Pak', 'NNP'), ('Adams', 'NNP'), ('kemarin', 'NN'), ('sudah', 'MD'), ('beri', 'VB'), ('petunjuk', 'NN'), ('kalau', 'SC'), ('dia', 'PRP'), ('akan', 'MD'), ('membantu', 'VB'), ('Indonesia', 'NNP'), ('yang', 'SC'), ('ingin', 'RB'), ('meminta', 'VB'), ('IDA', 'FW'), ('International', 'FW'), ('Development', 'FW'), ('Assistance', 'FW'), ('-', 'Z'), ('red', 'NN'), ('yang', 'SC'), ('berbunga', 'VB'), ('rendah', 'JJ'), (',', 'Z'), ('tapi', 'CC'), ('kita', 'PRP'), ('tahu', 'VB'), ('diri', 'NN'), ('juga', 'RB'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Pinnacle', 'NNP'), ('juga', 'RB'), ('ingin', 'RB'), ('membeli', 'VB'), ('pada', 'IN'), ('harga', 'NN'), ('Rp', 'SYM'), ('500', 'CD'), ('per', 'IN'), ('saham', 'NN'), (',', 'Z'), ('kata', 'VB'), ('Direktur', 'NNP'), ('Toba', 'NNP'), ('Pulp', 'NNP'), (',', 'Z'), ('Firman', 'NNP'), ('Mulya', 'NNP'), ('Nauli', 'NNP'), ('di', 'IN'), ('Jakarta', 'NNP'), (',', 'Z'), ('Jumat', 'NNP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Korea', 'NNP'), ('memiliki', 'VB'), ('kemampuan', 'NN'), ('yang', 'SC'), ('amat', 'RB'), ('baik', 'JJ'), ('dalam', 'IN'), ('bidang', 'NN'), ('ICT', 'FW'), ('information', 'FW'), (',', 'Z'), ('communication', 'FW'), ('and', 'FW'), ('technology', 'FW'), ('oleh', 'IN'), ('karena', 'SC'), ('itu', 'PR'), (',', 'Z'), ('Korea', 'NNP'), ('ingin', 'RB'), ('membantu', 'VB'), ('negara-negara', 'NN'), ('berkembang', 'VB'), ('terutama', 'JJ'), ('Indonesia', 'NNP'), ('untuk', 'SC'), ('juga', 'RB'), ('bisa', 'MD'), ('lebih', 'RB'), ('maju', 'JJ'), ('dalam', 'IN'), ('bidang', 'NN'), ('tersebut', 'PR'), (',', 'Z'), ('kata', 'VB'), ('-nya', 'PRP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Kita', 'PRP'), ('tidak', 'NEG'), ('ingin', 'RB'), ('membuat', 'VB'), ('unit', 'NN'), ('usaha', 'NN'), ('syariah', 'X'), (',', 'Z'), ('kita', 'PRP'), ('akan', 'MD'), ('membuat', 'VB'), ('Bank', 'NNP'), ('Umum', 'NNP'), ('Syariah', 'NNP'), (',', 'Z'), ('maksimal', 'JJ'), ('dana', 'NN'), ('Rp', 'SYM'), ('200', 'CD'), ('miliar', 'CD'), ('yang', 'SC'), ('kita', 'PRP'), ('masukan', 'X'), ('dalam', 'IN'), ('rencana', 'NN'), ('bisnis', 'NN'), (',', 'Z'), ('kata', 'VB'), ('Wakil', 'NNP'), ('Presiden', 'NNP'), ('Direktur', 'NNP'), ('BCA', 'NNP'), ('Jahja', 'NNP'), ('Setiaatmadja', 'NNP'), ('di', 'IN'), ('Jakarta', 'NNP'), (',', 'Z'), ('Selasa', 'NNP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Menurut', 'IN'), ('Jahja', 'NNP'), (',', 'Z'), ('pihak', 'NN'), ('-nya', 'PRP'), ('ingin', 'RB'), ('mengakuisisi', 'VB'), ('bank', 'NN'), ('untuk', 'SC'), ('membuat', 'VB'), ('bank syariah', 'NN'), ('itu', 'PR'), ('senilai', 'NN'), ('Rp', 'SYM'), ('80', 'CD'), ('miliar', 'CD'), ('.', 'Z'), ('Namun', 'CC'), ('semua', 'CD'), ('kemungkinan', 'NN'), ('masih', 'MD'), ('terbuka', 'VB'), (',', 'Z'), ('kata', 'VB'), ('-nya', 'PRP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('saya', 'PRP'), ('tidak', 'NEG'), ('ingin', 'RB'), ('mengatakan', 'VB'), ('sebelum', 'SC'), ('ada', 'VB'), ('kesepakatan', 'NN'), ('kata', 'VB'), ('Setijoso', 'NNP'), ('.', 'Z')]
+
+the word ikut is a modal but not tagged as MD
+	ikut is classified as VB
+	in sentence [('Laba', 'NN'), ('bersih', 'JJ'), ('per', 'IN'), ('saham', 'NN'), ('perseroan', 'NN'), ('juga', 'RB'), ('ikut', 'VB'), ('terkoreksi', 'VB'), ('dari', 'IN'), ('Rp', 'SYM'), ('61,09', 'CD'), ('pada', 'IN'), ('2005', 'CD'), ('menjadi', 'VB'), ('Rp', 'SYM'), ('12,07', 'CD'), ('pada', 'IN'), ('2006', 'CD'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Kita', 'PRP'), ('ingin', 'RB'), ('-nya', 'PRP'), ('6', 'CD'), ('persen', 'CD'), ('ke', 'IN'), ('bawah', 'NN'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Kita', 'PRP'), ('ingin', 'RB'), ('-nya', 'PRP'), ('6', 'CD'), ('persen', 'CD'), ('ke', 'IN'), ('bawah', 'NN'), (',', 'Z'), ('BI', 'NNP'), ('kan', 'RP'), ('kasih', 'VB'), ('-nya', 'PRP'), ('6', 'CD'), ('persen', 'CD'), ('plus', 'JJ'), ('-', 'Z'), ('minus', 'JJ'), ('1', 'CD'), ('persen', 'CD'), ('tahun', 'NN'), ('ini', 'PR'), (',', 'Z'), ('tegas', 'VB'), ('Sri', 'NNP'), ('Mulyani', 'NNP'), ('Indrawati', 'NNP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Selain', 'IN'), ('itu', 'PR'), (',', 'Z'), ('lembaga', 'NN'), ('donor', 'NN'), ('ini', 'PR'), ('juga', 'RB'), ('konsentrasi', 'NN'), ('untuk', 'SC'), ('membantu', 'VB'), ('di', 'IN'), ('bidang', 'NN'), ('pendidikan', 'NN'), ('dengan', 'SC'), ('memberikan', 'VB'), ('beasiswa', 'NN'), ('kepada', 'IN'), ('warga', 'NN'), ('Indonesia', 'NNP'), ('yang', 'SC'), ('ingin', 'RB'), ('melanjutkan', 'VB'), ('studi', 'NN'), ('di', 'IN'), ('sejumlah', 'CD'), ('perguruan tinggi', 'NN'), ('di', 'IN'), ('Australia', 'NNP'), ('.', 'Z')]
+
+the word ikut is a modal but not tagged as MD
+	ikut is classified as VB
+	in sentence [('Badan', 'NNP'), ('POM', 'NNP'), ('selama', 'IN'), ('ini', 'PR'), ('misal nya', 'NN'), ('ikut', 'VB'), ('menentukan', 'VB'), ('boleh', 'MD'), ('masuk', 'VB'), ('atau', 'CC'), ('tidak', 'NEG'), ('-nya', 'PRP'), ('makanan', 'NN'), ('serta', 'CC'), ('obat-obatan', 'NN'), ('dari', 'IN'), ('berbagai', 'CD'), ('negara', 'NN'), ('mitra', 'NN'), ('dagang', 'NN'), ('Indonesia', 'NNP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Berdasar', 'VB'), ('itung', 'VB'), ('-', 'Z'), ('itungan', 'VB'), (',', 'Z'), ('kalau', 'SC'), ('kita', 'PRP'), ('ingin', 'RB'), ('pertumbuhan ekonomi', 'NN'), ('6,3', 'CD'), ('persen', 'CD'), ('di', 'IN'), ('tahun', 'NN'), ('2007', 'CD'), (',', 'Z'), ('maka', 'SC'), ('pertumbuhan', 'NN'), ('investasi', 'NN'), ('yang', 'SC'), ('bisa', 'MD'), ('menopang', 'VB'), ('target', 'NN'), ('itu', 'PR'), ('adalah', 'VB'), ('12,3', 'CD'), ('persen', 'CD'), (',', 'Z'), ('kata', 'VB'), ('Sri', 'NNP'), ('Mulyani', 'NNP'), ('di', 'IN'), ('Jakarta', 'NNP'), (',', 'Z'), ('Kamis', 'NNP'), ('.', 'Z')]
+
+the word dapat is a modal but not tagged as MD
+	dapat is classified as VB
+	in sentence [('Yang', 'DT'), ('jelas', 'JJ'), ('kita', 'PRP'), ('dapat', 'VB'), ('komitmen', 'NN'), ('kesediaan', 'NN'), ('JICA', 'NNP'), ('untuk', 'SC'), ('memfasilitasi', 'VB'), ('aliran', 'NN'), ('investasi', 'NN'), ('ke', 'IN'), ('Sulut', 'NNP'), (',', 'Z'), ('ujar', 'VB'), ('mantan', 'JJ'), ('Irjen', 'NNP'), ('Depdagri', 'NNP'), ('itu', 'PR'), ('.', 'Z')]
+
+the word dapat is a modal but not tagged as MD
+	dapat is classified as VB
+	in sentence [('Kita', 'PRP'), ('berharap', 'VB'), (',', 'Z'), ('sudah', 'MD'), ('dapat', 'VB'), ('listing', 'FW'), ('di', 'IN'), ('BEJ', 'NNP'), ('pada', 'IN'), ('September', 'NNP'), ('2007', 'CD'), ('ini', 'PR'), (',', 'Z'), ('kata', 'VB'), ('Direktur', 'NNP'), ('Utama', 'NNP'), ('Wika', 'NNP'), ('A', 'NNP'), ('Sutjipto', 'NNP'), (',', 'Z'), ('di', 'IN'), ('Bogor', 'NNP'), (',', 'Z'), ('Selasa', 'NNP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Dijelaskan', 'VB'), ('Henri', 'NNP'), (',', 'Z'), ('jika', 'SC'), ('Bank', 'NNP'), ('Dunia', 'NNP'), ('ingin', 'RB'), ('menggunakan', 'VB'), ('komponen-komponen', 'NN'), ('tersebut', 'PR'), ('dalam', 'IN'), ('penghitungan', 'NN'), ('angka', 'NN'), ('kemiskinan', 'NN'), (',', 'Z'), ('maka', 'SC'), ('Bank', 'NNP'), ('Dunia', 'NNP'), ('harus', 'MD'), ('juga', 'RB'), ('melihat', 'VB'), ('sumber-sumber', 'NN'), ('pertumbuhan ekonomi', 'NN'), (',', 'Z'), ('arah', 'NN'), ('dari', 'IN'), ('program-program', 'NN'), ('kemiskinan', 'NN'), (',', 'Z'), ('serta', 'CC'), ('waktu', 'NN'), ('realisasi', 'NN'), ('anggaran', 'NN'), ('kemiskinan', 'NN'), ('.', 'Z')]
+
+the word ikut is a modal but not tagged as MD
+	ikut is classified as VB
+	in sentence [('Beberapa', 'CD'), ('sekuritas', 'NN'), ('asing', 'JJ'), ('juga', 'RB'), ('melakukan', 'VB'), ('tekanan', 'NN'), ('jual', 'VB'), ('seperti', 'IN'), ('Merryl', 'NNP'), ('Linch', 'NNP'), ('dan', 'CC'), ('Kim', 'NNP'), ('Eng', 'NNP'), ('Securities', 'NNP'), ('dan', 'CC'), ('Danareksa', 'NNP'), ('juga', 'RB'), ('malah', 'RB'), ('ikut', 'VB'), ('menjual', 'VB'), ('padahal', 'CC'), ('sebagai', 'IN'), ('salah satu', 'CD'), ('penjamin', 'NN'), ('pelaksana', 'NN'), ('emisi', 'NN'), ('yang', 'SC'), ('seharusnya', 'RB'), ('ikut', 'VB'), ('menjaga', 'VB'), ('saham', 'NN'), ('BNI', 'NNP'), ('.', 'Z')]
+
+the word ikut is a modal but not tagged as MD
+	ikut is classified as VB
+	in sentence [('Beberapa', 'CD'), ('sekuritas', 'NN'), ('asing', 'JJ'), ('juga', 'RB'), ('melakukan', 'VB'), ('tekanan', 'NN'), ('jual', 'VB'), ('seperti', 'IN'), ('Merryl', 'NNP'), ('Linch', 'NNP'), ('dan', 'CC'), ('Kim', 'NNP'), ('Eng', 'NNP'), ('Securities', 'NNP'), ('dan', 'CC'), ('Danareksa', 'NNP'), ('juga', 'RB'), ('malah', 'RB'), ('ikut', 'VB'), ('menjual', 'VB'), ('padahal', 'CC'), ('sebagai', 'IN'), ('salah satu', 'CD'), ('penjamin', 'NN'), ('pelaksana', 'NN'), ('emisi', 'NN'), ('yang', 'SC'), ('seharusnya', 'RB'), ('ikut', 'VB'), ('menjaga', 'VB'), ('saham', 'NN'), ('BNI', 'NNP'), ('.', 'Z')]
+
+the word ikut is a modal but not tagged as MD
+	ikut is classified as VB
+	in sentence [('Selain', 'IN'), ('itu', 'PR'), (',', 'Z'), ('tambah', 'VB'), ('-nya', 'PRP'), (',', 'Z'), ('cadangan', 'NN'), ('devisa', 'NN'), ('yang', 'SC'), ('cukup', 'RB'), ('tinggi', 'JJ'), (',', 'Z'), ('eksposur', 'NN'), ('risiko', 'NN'), ('nilai tukar', 'NN'), ('dalam', 'IN'), ('perbankan', 'NN'), ('yang', 'SC'), ('tetap', 'RB'), ('terjaga', 'VB'), (',', 'Z'), ('serta', 'CC'), ('ketahanan', 'NN'), ('fiskal', 'JJ'), ('pemerintah', 'NN'), ('dan', 'CC'), ('ekses', 'NN'), ('likuiditas', 'NN'), ('global', 'JJ'), ('juga', 'RB'), ('ikut', 'VB'), ('mendorong', 'VB'), ('terapresiasi', 'VB'), ('-nya', 'PRP'), ('rupiah', 'NN'), ('.', 'Z')]
+
+the word ikut is a modal but not tagged as MD
+	ikut is classified as VB
+	in sentence [('Sejumlah', 'CD'), ('investor', 'NN'), ('strategis', 'JJ'), ('saat', 'NN'), ('ini', 'PR'), ('sedang', 'MD'), ('menjajaki', 'VB'), ('kemungkinan', 'NN'), ('ikut', 'VB'), ('mengelola', 'VB'), ('blok', 'NN'), ('Kangean', 'NNP'), ('PT', 'NNP'), ('Energi', 'NNP'), ('Mega', 'NNP'), ('Persada', 'NNP'), ('Tbk', 'NNP'), ('EMP', 'NNP'), ('.', 'Z')]
+
+the word senang is a modal but not tagged as MD
+	senang is classified as JJ
+	in sentence [('Perbankan', 'NN'), ('lebih', 'RB'), ('senang', 'JJ'), ('menyalurkan', 'VB'), ('kredit', 'NN'), ('kepada', 'IN'), ('masyarakat', 'NN'), ('karena', 'SC'), ('akan', 'MD'), ('memperoleh', 'VB'), ('pendapatan', 'NN'), ('bunga', 'NN'), ('yang', 'SC'), ('lebih', 'RB'), ('besar', 'JJ'), ('ketimbang', 'SC'), ('menempatkan', 'VB'), ('dana', 'NN'), ('-nya', 'PRP'), ('ke', 'IN'), ('Sertifikat', 'NNP'), ('Bank', 'NNP'), ('Indonesia', 'NNP'), ('SBI', 'NNP'), (',', 'Z'), ('kata', 'VB'), ('-nya', 'PRP'), ('.', 'Z')]
+
+the word ikut is a modal but not tagged as MD
+	ikut is classified as VB
+	in sentence [('Menurut', 'IN'), ('dia', 'PRP'), (',', 'Z'), ('kenaikan', 'NN'), ('harga', 'NN'), ('saham-saham', 'NN'), ('unggulan', 'NN'), ('juga', 'RB'), ('telah', 'MD'), ('menyeret', 'VB'), ('saham', 'NN'), ('lapis', 'NN'), ('ketiga', 'OD'), ('ikut', 'VB'), ('naik', 'VB'), ('saat', 'NN'), ('ini', 'PR'), (',', 'Z'), ('sehingga', 'SC'), ('jumlah', 'NN'), ('saham', 'NN'), ('yang', 'SC'), ('menguat', 'VB'), ('sangat', 'RB'), ('banyak', 'CD'), ('jenis', 'NN'), ('-nya', 'PRP'), ('.', 'Z')]
+
+the word ikut is a modal but not tagged as MD
+	ikut is classified as VB
+	in sentence [('Menurut', 'IN'), ('Ketua', 'NNP'), ('badan', 'NNP'), ('Koordinasi', 'NNP'), ('Penanaman', 'NNP'), ('Modal', 'NNP'), ('BKPM', 'NNP'), ('M.', 'NNP'), ('Lutfi', 'NNP'), ('yang', 'SC'), ('ikut', 'VB'), ('dalam', 'IN'), ('pertemuan', 'NN'), ('tersebut', 'PR'), (',', 'Z'), ('ini', 'PR'), ('merupakan', 'VB'), ('kemajuan', 'NN'), ('yang', 'SC'), ('besar', 'JJ'), (',', 'Z'), ('mengingat', 'VB'), ('investasi', 'NN'), ('perusahaan', 'NN'), ('tersebut', 'PR'), ('di', 'IN'), ('seluruh', 'CD'), ('dunia', 'NN'), ('mencapai', 'VB'), ('10', 'CD'), ('miliar', 'CD'), ('dolar', 'NN'), (',', 'Z'), ('dan', 'CC'), ('Indonesia', 'NNP'), ('sendiri', 'PRP'), ('selama', 'IN'), ('ini', 'PR'), ('hanya', 'RB'), ('kebagian', 'VB'), ('sebesar', 'JJ'), ('dua', 'CD'), ('miliar', 'CD'), ('dolar', 'NN'), ('.', 'Z')]
+
+the word ikut is a modal but not tagged as MD
+	ikut is classified as VB
+	in sentence [('Maka', 'SC'), ('besaran', 'NN'), ('dana', 'NN'), ('pendamping', 'NN'), ('-nya', 'PRP'), ('bisa', 'MD'), ('dihitung', 'VB'), ('ikut', 'VB'), ('turun', 'VB'), ('menjadi', 'VB'), ('sekitar', 'IN'), ('itu', 'PR'), ('556,09', 'CD'), ('juta', 'CD'), ('dolar', 'NN'), ('AS', 'NNP'), ('-', 'Z'), ('red', 'NN'), (',', 'Z'), ('kata', 'VB'), ('-nya', 'PRP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Inflasi', 'NN'), ('kan', 'RP'), ('keseimbangan', 'NN'), ('antara', 'IN'), ('arus uang', 'NN'), ('dan', 'CC'), ('arus barang', 'NN'), (',', 'Z'), ('arus barang', 'NN'), ('ini', 'PR'), ('lah', 'RP'), ('yang', 'SC'), ('ingin', 'RB'), ('kita', 'PRP'), ('amankan', 'VB'), ('selama', 'IN'), ('beberapa', 'CD'), ('bulan', 'NN'), ('ke depan', 'RB'), ('.', 'Z')]
+
+the word ikut is a modal but not tagged as MD
+	ikut is classified as VB
+	in sentence [('Selain', 'IN'), ('Bulog', 'NNP'), (',', 'Z'), ('8', 'CD'), ('BUMN', 'NN'), ('lain', 'JJ'), ('diminta', 'VB'), ('ikut', 'VB'), ('dalam', 'IN'), ('konsorsium', 'NN'), ('itu', 'PR'), ('adalah', 'VB'), ('PT', 'NNP'), ('Sang', 'NNP'), ('Hyang', 'NNP'), ('Sri', 'NNP'), (',', 'Z'), ('PT', 'NNP'), ('PupuK', 'NNP'), ('Sriwijaya', 'NNP'), (',', 'Z'), ('PT', 'NNP'), ('Pupuk', 'NNP'), ('Kaltim', 'NNP'), (',', 'Z'), ('PT', 'NNP'), ('Pupuk', 'NNP'), ('Kujang', 'NNP'), (',', 'Z'), ('PT', 'NNP'), ('Petrokimia', 'NNP'), ('Gresik', 'NNP'), (',', 'Z'), ('PT', 'NNP'), ('Pertani', 'NNP'), (',', 'Z'), ('Perum', 'NNP'), ('Jasa', 'NNP'), ('Tirta', 'NNP'), ('I', 'NNP'), (',', 'Z'), ('dan', 'CC'), ('Perum', 'NNP'), ('Jasa', 'NNP'), ('Tirta', 'NNP'), ('II', 'NNP'), ('.', 'Z')]
+
+the word dapat is a modal but not tagged as MD
+	dapat is classified as VB
+	in sentence [('Dengan', 'IN'), ('tambahan', 'NN'), ('produksi', 'NN'), ('beras', 'NN'), ('2', 'CD'), ('juta', 'CD'), ('ton', 'NND'), ('kita', 'PRP'), ('harapkan', 'VB'), ('kita', 'PRP'), ('dapat', 'VB'), ('swasembada', 'NN'), ('beras', 'NN'), (',', 'Z'), ('asal', 'SC'), ('tidak', 'NEG'), ('ada', 'VB'), ('kegagalan', 'NN'), ('panen', 'NN'), (',', 'Z'), ('kata', 'VB'), ('Sugiharto', 'NNP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Kami', 'PRP'), ('ingin', 'RB'), ('mencetak', 'VB'), ('agen-agen', 'NN'), ('asuransi jiwa', 'NN'), ('nasional', 'JJ'), ('yang', 'SC'), ('berkompeten', 'VB'), ('dan', 'CC'), ('memiliki', 'VB'), ('standar', 'NN'), ('internasional', 'JJ'), (',', 'Z'), ('kata', 'VB'), ('Ketua', 'NNP'), ('Umum', 'NNP'), ('AAJI', 'NNP'), (',', 'Z'), ('Evelina', 'NNP'), ('Pietruschka', 'NNP'), ('di', 'IN'), ('Jakarta', 'NNP'), (',', 'Z'), ('Kamis', 'NNP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Ia', 'PRP'), ('juga', 'RB'), ('menjelaskan', 'VB'), (',', 'Z'), ('pihak', 'NN'), ('-nya', 'PRP'), ('ingin', 'RB'), ('memastikan', 'VB'), ('standar', 'NN'), ('akuntansi', 'NN'), ('perbankan', 'NN'), ('yang', 'SC'), ('diterapkan', 'VB'), ('perbankan', 'NN'), ('akan', 'MD'), ('dapat', 'MD'), ('menjadi', 'VB'), ('basis', 'NN'), ('penghitungan', 'NN'), ('keuangan', 'NN'), ('yang', 'SC'), ('efektif', 'JJ'), ('dan', 'CC'), ('meningkatkan', 'VB'), ('kedisiplinan', 'NN'), ('pasar', 'NN'), ('melalui', 'IN'), ('laporan keuangan', 'NN'), ('yang', 'SC'), ('transparan', 'JJ'), ('.', 'Z')]
+
+the word ikut is a modal but not tagged as MD
+	ikut is classified as VB
+	in sentence [('Kita', 'PRP'), ('harus', 'MD'), ('ikut', 'VB'), ('mengamankan', 'VB'), ('kebijakan', 'NN'), ('sektoral', 'JJ'), ('yang', 'SC'), ('terkait', 'VB'), ('kepentingan', 'NN'), ('nasional', 'JJ'), ('kata', 'VB'), ('-nya', 'PRP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Menko', 'NN'), ('Perekonomian', 'NN'), ('menyatakan', 'VB'), ('akan', 'MD'), ('melakukan', 'VB'), ('pendalaman', 'NN'), ('terhadap', 'IN'), ('fasilitas-fasilitas', 'NN'), ('yang', 'SC'), ('mungkin', 'MD'), ('diperoleh', 'VB'), ('Indonesia', 'NNP'), ('melalui', 'IN'), ('kerja sama', 'NN'), ('itu', 'PR'), (',', 'Z'), ('dan', 'CC'), ('ingin', 'RB'), ('membicarakan', 'VB'), ('-nya', 'PRP'), ('dengan', 'IN'), ('menteri-menteri', 'NN'), ('yang', 'SC'), ('lain', 'JJ'), (',', 'Z'), ('kata', 'VB'), ('Mahendra', 'NNP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Ini', 'PR'), ('akan', 'MD'), ('kita', 'PRP'), ('lihat', 'VB'), ('dahulu', 'NN'), (',', 'Z'), ('karena', 'SC'), ('kita', 'PRP'), ('tidak', 'NEG'), ('ingin', 'RB'), ('kemudian', 'CC'), ('semua', 'CD'), ('barang mewah', 'NN'), ('dikenakan', 'VB'), ('PPnBM', 'NN'), ('maksimal', 'JJ'), (',', 'Z'), ('kata', 'VB'), ('Ketua', 'NNP'), ('Panja', 'NNP'), ('RUU', 'NNP'), ('PPN', 'NN'), ('dan', 'CC'), ('PPnBM', 'NN'), ('Vera', 'NNP'), ('Febyanthy', 'NNP'), ('di', 'IN'), ('Jakarta', 'NNP'), (',', 'Z'), ('akhir pekan', 'NN'), ('ini', 'PR'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Kami', 'PRP'), ('optimistis', 'JJ'), ('tekanan', 'NN'), ('pasar', 'NN'), ('yang', 'SC'), ('tidak', 'NEG'), ('besar', 'JJ'), ('akan', 'MD'), ('mendorong', 'VB'), ('rupiah', 'NN'), ('kembali', 'VB'), ('menguat', 'VB'), ('pada', 'IN'), ('hari', 'NN'), ('berikut', 'PR'), (',', 'Z'), ('karena', 'SC'), ('sentimen', 'NN'), ('pasar', 'NN'), ('masih', 'MD'), ('positif', 'JJ'), ('berkat', 'SC'), ('masuk', 'VB'), ('-nya', 'PRP'), ('investor', 'NN'), ('asing', 'JJ'), ('yang', 'SC'), ('ingin', 'RB'), ('meningkatkan', 'VB'), ('penempatan', 'NN'), ('dana', 'NN'), ('-nya', 'PRP'), ('di', 'IN'), ('pasar', 'NN'), ('domestik', 'JJ'), (',', 'Z'), ('kata', 'VB'), ('-nya', 'PRP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Kredit', 'NN'), ('mikro', 'JJ'), ('lanjut', 'VB'), ('presiden', 'NNP'), (',', 'Z'), ('sudah', 'MD'), ('terbukti', 'VB'), ('mampu', 'JJ'), ('membantu', 'VB'), ('masyarakat', 'NN'), ('miskin', 'JJ'), ('yang', 'SC'), ('tidak', 'NEG'), ('mempunyai', 'VB'), ('pendidikan', 'NN'), ('dan', 'CC'), ('modal', 'NN'), ('yang', 'SC'), ('ingin', 'RB'), ('melakukan', 'VB'), ('usaha', 'NN'), ('.', 'Z')]
+
+the word ikut is a modal but not tagged as MD
+	ikut is classified as VB
+	in sentence [('Tropical', 'NNP'), ('Forest', 'NNP'), ('Fund', 'NNP'), ('didirikan', 'VB'), ('bersama', 'VB'), ('dan', 'CC'), ('beranggotakan', 'VB'), ('wakil', 'NNP'), ('dari', 'IN'), ('Pemerintah', 'NNP'), ('Indonesia', 'NNP'), (',', 'Z'), ('pemerintah', 'NN'), ('AS', 'NNP'), (',', 'Z'), ('dan', 'CC'), ('LSM', 'NNP'), ('yang', 'SC'), ('menjadi', 'VB'), ('swap', 'FW'), ('partner', 'FW'), (',', 'Z'), ('yang', 'SC'), ('ikut', 'VB'), ('menyumbangkan', 'VB'), ('dana', 'NN'), ('pada', 'IN'), ('Fund', 'NNP'), ('itu', 'PR'), ('dengan', 'IN'), ('nilai', 'NN'), ('minimum', 'NN'), ('20', 'CD'), ('persen', 'CD'), ('dari', 'IN'), ('19,6', 'CD'), ('juta', 'CD'), ('dolar', 'NN'), ('atau', 'CC'), ('3,92', 'CD'), ('juta', 'CD'), ('dolar', 'NN'), ('AS', 'NNP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Selain', 'IN'), ('itu', 'PR'), (',', 'Z'), ('minat', 'NN'), ('investor', 'NN'), ('asing', 'JJ'), ('yang', 'SC'), ('ingin', 'RB'), ('menempatkan', 'VB'), ('dana', 'NN'), ('-nya', 'PRP'), ('di', 'IN'), ('pasar', 'NN'), ('domestik', 'JJ'), ('juga', 'RB'), ('cukup', 'RB'), ('kuat', 'JJ'), ('seperti', 'IN'), ('India', 'NNP'), (',', 'Z'), ('Singapura', 'NNP'), ('dan', 'CC'), ('Malaysia', 'NNP'), ('serta', 'CC'), ('investor', 'NN'), ('dari', 'IN'), ('kawasan', 'NN'), ('Timur', 'NNP'), ('Tengah', 'NNP'), (',', 'Z'), ('kata', 'VB'), ('-nya', 'PRP'), ('.', 'Z')]
+
+the word dapat is a modal but not tagged as MD
+	dapat is classified as VB
+	in sentence [('Kami', 'PRP'), ('optimis', 'NN'), ('rupiah', 'NN'), ('pada', 'IN'), ('pekan', 'NN'), ('depan', 'NN'), ('akan', 'MD'), ('kembali', 'VB'), ('membaik', 'VB'), ('sehingga', 'SC'), ('posisi', 'NN'), ('akan', 'MD'), ('dapat', 'VB'), ('di bawah', 'VB'), ('angka', 'NN'), ('Rp', 'SYM'), ('9.3', 'CD'), ('per', 'IN'), ('dolar', 'NN'), ('AS', 'NNP'), (',', 'Z'), ('ucap', 'VB'), ('-nya', 'PRP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Karena', 'SC'), ('itu', 'PR'), ('saya', 'PRP'), ('ingin', 'RB'), ('katakan', 'VB'), ('agar', 'SC'), ('DPR', 'NNP'), ('segera', 'RB'), ('membuat', 'VB'), ('keputusan', 'NN'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Pemerintah', 'NN'), ('dan', 'CC'), ('DPR', 'NNP'), ('sungguh', 'RB'), ('ingin', 'RB'), ('menyelesaikan', 'VB'), ('dua', 'CD'), ('UU', 'NNP'), ('ini', 'PR'), ('tepat', 'JJ'), ('pada', 'IN'), ('waktu', 'NN'), ('-nya', 'PRP'), ('karena', 'SC'), ('dapat', 'MD'), ('memperkokoh', 'VB'), ('industri', 'NN'), ('keuangan', 'NN'), ('syariah', 'X'), ('serta', 'CC'), ('menjadi', 'VB'), ('insentif', 'NN'), ('bagi', 'IN'), ('para', 'DT'), ('investor', 'NN'), (',', 'Z'), ('kata', 'VB'), ('-nya', 'PRP'), ('.', 'Z')]
+
+the word ikut is a modal but not tagged as MD
+	ikut is classified as VB
+	in sentence [('Selain', 'IN'), ('itu', 'PR'), ('pada', 'IN'), ('semester', 'NN'), ('I', 'OD'), ('2008', 'CD'), ('perolehan', 'NN'), ('laba bersih', 'NN'), ('Antam', 'NNP'), ('juga', 'RB'), ('ikut', 'VB'), ('melorot', 'VB'), ('sekitar', 'IN'), ('40', 'CD'), ('persen', 'CD'), ('lebih', 'RB'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('BI', 'NNP'), ('ingin', 'RB'), ('menghargai', 'VB'), ('Undang-Undang', 'NNP'), (',', 'Z'), ('dan', 'CC'), ('Undang-Undang', 'NNP'), ('BI', 'NNP'), ('juga', 'RB'), ('menyebutkan', 'VB'), ('bahwa', 'SC'), ('masalah', 'NN'), ('ini', 'PR'), ('harus', 'MD'), ('tuntas', 'JJ'), ('sebelum', 'SC'), ('2009', 'CD'), (',', 'Z'), ('kata', 'VB'), ('-nya', 'PRP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Pemerintah', 'NN'), ('ingin', 'RB'), ('menahan', 'VB'), ('dana-dana', 'NN'), ('itu', 'PR'), ('jangan sampai', 'RB'), ('keluar', 'VB'), ('dari', 'IN'), ('Indonesia', 'NNP'), (',', 'Z'), ('dengan', 'IN'), ('menaikkan', 'VB'), ('suku', 'NN'), ('bunga', 'NN'), ('BI', 'NNP'), ('Rate', 'FW'), ('untuk', 'SC'), ('menekan', 'VB'), ('inflasi', 'NN')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Banyak', 'CD'), ('pihak', 'NN'), ('yang', 'SC'), ('berminat', 'VB'), (',', 'Z'), ('namun', 'CC'), ('mereka', 'PRP'), ('ingin', 'RB'), ('-nya', 'PRP'), ('mayoritas', 'NN'), (',', 'Z'), ('ungkap', 'VB'), ('-nya', 'PRP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Ditambahkan', 'VB'), ('-nya', 'PRP'), (',', 'Z'), ('jika', 'SC'), ('Pertamina', 'NNP'), ('ingin', 'RB'), ('kembali', 'VB'), ('menaikkan', 'VB'), ('harga', 'NN'), ('elpiji', 'NN'), ('ukuran', 'NN'), ('12', 'CD'), ('kg', 'NND'), ('dan', 'CC'), ('50', 'CD'), ('kg', 'NND'), (',', 'Z'), ('maka', 'SC'), ('hendaknya', 'RB'), ('jangan', 'NEG'), ('dilakukan', 'VB'), ('pada', 'IN'), ('dua', 'CD'), ('bulan', 'NN'), ('mendatang', 'VB'), (',', 'Z'), ('yaitu', 'SC'), ('September', 'NNP'), ('dan', 'CC'), ('Oktober', 'NNP'), (',', 'Z'), ('mengingat', 'VB'), ('ekspektasi', 'NN'), ('inflasi', 'NN'), ('yang', 'SC'), ('sangat', 'RB'), ('tinggi', 'JJ'), ('pada', 'IN'), ('dua', 'CD'), ('bulan', 'NN'), ('tersebut', 'PR'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Kita', 'PRP'), ('ingin', 'RB'), ('keseimbangan', 'NN'), ('antara', 'IN'), ('pertumbuhan', 'NN'), ('yang', 'SC'), ('wajar', 'JJ'), ('dan', 'CC'), ('inflasi', 'NN'), ('yang', 'SC'), ('mencapai', 'VB'), ('sasaran', 'NN')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Menurut', 'IN'), ('dia', 'PRP'), (',', 'Z'), ('tujuan', 'NN'), ('Indonesia', 'NNP'), ('keluar', 'VB'), ('dari', 'IN'), ('OPEC', 'NNP'), ('lebih', 'RB'), ('kepada', 'IN'), ('pesan', 'NN'), ('moral', 'NN'), ('yang', 'SC'), ('ingin', 'RB'), ('disampaikan', 'VB'), ('Indonesia', 'NNP'), ('kepada', 'IN'), ('negara-negara', 'NN'), ('OPEC', 'NNP'), ('itu', 'PR'), ('.', 'Z'), ('Keanggotaan', 'NN'), ('OPEC', 'NNP'), ('lebih', 'RB'), ('didasarkan', 'VB'), ('kepada', 'IN'), ('kemampuan', 'NN'), ('untuk', 'SC'), ('memproduksi', 'VB'), ('minyak', 'NN'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Kita', 'PRP'), ('ingin', 'RB'), ('dengan', 'IN'), ('cekal', 'VB'), ('ini', 'PR'), (',', 'Z'), ('mereka', 'PRP'), ('menyadari', 'VB'), ('bahwa', 'SC'), ('menahan', 'VB'), ('uang', 'NN'), ('negara', 'NN'), ('itu', 'PR'), ('sebuah', 'NND'), ('kesalahan', 'NN'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Oleh', 'IN'), ('karena', 'SC'), ('itu', 'PR'), (',', 'Z'), ('dalam', 'IN'), ('makalah', 'NN'), ('ini', 'PR'), ('penulis', 'NN'), ('ingin', 'RB'), ('memberikan', 'VB'), ('dua', 'CD'), ('hal', 'NN'), ('penting', 'JJ'), ('yang', 'SC'), ('harus', 'MD'), ('dilakukan', 'VB'), ('untuk', 'SC'), ('bisa', 'MD'), ('menghadapi', 'VB'), ('semua', 'CD'), ('fenomena', 'NN'), ('ini', 'PR'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Kaum', 'NN'), ('kapitalis', 'NN'), ('tidak', 'NEG'), ('hanya', 'RB'), ('ingin', 'RB'), ('membesar', 'VB'), (',', 'Z'), ('tetapi', 'CC'), ('mereka', 'PRP'), ('juga', 'RB'), ('ingin', 'RB'), ('membesar', 'VB'), ('dengan', 'IN'), ('cepat', 'JJ'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Kaum', 'NN'), ('kapitalis', 'NN'), ('tidak', 'NEG'), ('hanya', 'RB'), ('ingin', 'RB'), ('membesar', 'VB'), (',', 'Z'), ('tetapi', 'CC'), ('mereka', 'PRP'), ('juga', 'RB'), ('ingin', 'RB'), ('membesar', 'VB'), ('dengan', 'IN'), ('cepat', 'JJ'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Mereka', 'PRP'), ('tidak', 'NEG'), ('pernah', 'MD'), ('ingin', 'RB'), ('berhenti', 'VB'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Mereka', 'PRP'), ('tidak', 'NEG'), ('hanya', 'RB'), ('ingin', 'RB'), ('berhenti', 'VB'), ('untuk', 'X'), ('untuk', 'IN'), ('bermain', 'VB'), ('di', 'IN'), ('wilayah', 'NN'), ('pasar', 'NN'), ('hilir', 'NN'), ('saja', 'RB'), (',', 'Z'), ('tetapi', 'CC'), ('mereka', 'PRP'), ('terus', 'RB'), ('merangsek', 'VB'), ('untuk', 'SC'), ('mencaplok', 'VB'), ('sumber-sumber', 'NN'), ('ekonomi', 'NN'), ('di', 'IN'), ('wilayah', 'NN'), ('hulu', 'NN'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Dengan', 'IN'), ('dalih', 'NN'), ('kebebasan', 'NN'), ('ekonomi', 'NN'), ('dan', 'CC'), ('kebebasan', 'NN'), ('pasar', 'NN'), (',', 'Z'), ('mereka', 'PRP'), ('juga', 'RB'), ('ingin', 'RB'), ('menguasai', 'VB'), ('wilayah-wilayah', 'NN'), ('ekonomi', 'NN'), ('yang', 'SC'), ('seharusnya', 'RB'), ('menjadi', 'VB'), ('milik', 'NN'), ('umum', 'JJ'), ('yang', 'SC'), ('menyangkut', 'VB'), ('hajat', 'NN'), ('hidup', 'NN'), ('orang banyak', 'NN'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Wilayah', 'NN'), ('ekonomi', 'NN'), ('yang', 'SC'), ('ingin', 'RB'), ('terus', 'RB'), ('mereka', 'PRP'), ('kuasai', 'VB'), ('tersebut', 'PR'), ('misal nya', 'NN'), ('adalah', 'VB'), ('berbagai', 'CD'), ('macam', 'NND'), ('sektor', 'NN'), ('pertambangan', 'NN'), (',', 'Z'), ('sumber daya', 'NN'), ('hutan', 'NN'), (',', 'Z'), ('sumber daya', 'NN'), ('air', 'NN'), (',', 'Z'), ('minyak bumi', 'NN'), (',', 'Z'), ('gas', 'NN'), (',', 'Z'), ('jalan raya', 'NN'), (',', 'Z'), ('pelabuhan', 'NN'), (',', 'Z'), ('bandara', 'NN'), ('dsb', 'X'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Mereka', 'PRP'), ('juga', 'RB'), ('ingin', 'RB'), ('memiliki', 'VB'), ('rasa', 'NN'), ('aman', 'JJ'), ('terhadap', 'IN'), ('keberadaan', 'NN'), ('perusahaan-perusahaan', 'NN'), ('mereka', 'PRP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Nafsu', 'NN'), ('serakah', 'JJ'), ('untuk', 'SC'), ('terus-menerus', 'RB'), ('melakukan', 'VB'), ('penjarahan', 'NN'), ('kekayaan', 'NN'), ('di', 'IN'), ('berbagai', 'CD'), ('sektor', 'NN'), ('dan', 'CC'), ('ke', 'IN'), ('berbagai', 'CD'), ('negeri', 'NN'), ('ternyata', 'VB'), ('ingin', 'RB'), ('terus', 'RB'), ('mereka', 'PRP'), ('lakukan', 'VB'), ('.', 'Z')]
+
+the word mau is a modal but not tagged as MD
+	mau is classified as RB
+	in sentence [('Kepentingan', 'NN'), ('mereka', 'PRP'), ('sangat', 'RB'), ('jelas', 'JJ'), (',', 'Z'), ('yaitu', 'SC'), ('kebutuhan', 'NN'), ('untuk', 'SC'), ('memperoleh', 'VB'), ('tenaga kerja', 'NN'), ('yang', 'SC'), ('sangat', 'RB'), ('professional', 'FW'), (',', 'Z'), ('memiliki', 'VB'), ('skill', 'FW'), ('yang', 'SC'), ('tinggi', 'JJ'), ('dan', 'CC'), ('mau', 'RB'), ('digaji', 'VB'), ('dengan', 'IN'), ('sangat', 'RB'), ('murah', 'JJ'), ('.', 'Z')]
+
+the word mau is a modal but not tagged as MD
+	mau is classified as RB
+	in sentence [('Sangat', 'RB'), ('sulit', 'JJ'), ('dalam', 'IN'), ('dunia', 'NN'), ('pendidikan', 'NN'), ('yang', 'SC'), ('mahal', 'JJ'), ('dapat', 'MD'), ('menghasilkan', 'VB'), ('manusia-manusia', 'NN'), ('yang', 'SC'), ('idealis', 'NN'), ('yang', 'SC'), ('mau', 'RB'), ('berpikir', 'VB'), ('tentang', 'IN'), ('jati diri', 'NN'), ('-nya', 'PRP'), ('maupun', 'CC'), ('jati diri', 'NN'), ('bangsa', 'NN'), ('-nya', 'PRP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Cukup', 'RB'), ('sudah', 'MD'), ('kebohongan', 'NN'), ('dan', 'CC'), ('pemerasan', 'NN'), ('harta', 'NN'), ('negara', 'NN'), ('jika', 'SC'), ('tidak', 'NEG'), ('ingin', 'RB'), ('mendapat', 'VB'), ('laknat', 'NN'), ('Allah', 'NNP'), ('SWT', 'NNP'), ('dan', 'CC'), ('Rasul', 'NNP'), ('-nya', 'NNP'), ('.', 'Z'), ('Nabi', 'NNP'), ('Muhammad', 'NNP'), ('SAW', 'NNP'), ('bersabda', 'VB'), (':', 'Z'), ('Siapa', 'WH'), ('saja', 'RB'), ('seorang', 'NND'), ('pemimpin', 'NN'), ('yang', 'SC'), ('mengurusi', 'VB'), ('kaum', 'NN'), ('muslimin', 'NN'), (',', 'Z'), ('kemudian', 'CC'), ('ia', 'PRP'), ('meninggal', 'VB'), ('sedangkan', 'CC'), ('ia', 'PRP'), ('berbuat', 'VB'), ('curang', 'JJ'), ('terhadap', 'IN'), ('mereka', 'PRP'), ('maka', 'SC'), ('Allah', 'NNP'), ('mengharamkan', 'VB'), ('surga', 'NN'), ('bagi', 'IN'), ('-nya', 'PRP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Yang', 'SC'), ('menjadi', 'VB'), ('persoalan', 'NN'), (',', 'Z'), ('bila', 'SC'), ('para', 'DT'), ('pengusaha', 'NN'), ('mikro', 'JJ'), ('yang', 'SC'), ('bukan', 'NEG'), ('anggota', 'NN'), ('dan', 'CC'), ('ingin', 'RB'), ('meminjam', 'VB'), ('kredit', 'NN'), ('ke', 'IN'), ('Koperasi', 'NN'), ('Simpan', 'VB'), ('Pinjam', 'VB'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Prosedur', 'NN'), ('ini', 'PR'), ('terasa', 'VB'), ('menjadi', 'VB'), ('panjang', 'JJ'), ('dan', 'CC'), ('bisa', 'MD'), ('membuat', 'VB'), ('enggan', 'RB'), ('pengusaha', 'NN'), ('mikro', 'JJ'), (',', 'Z'), ('yang', 'SC'), ('sebagai', 'IN'), ('pelaku bisnis', 'NN'), ('biasanya', 'RB'), ('ingin', 'RB'), ('perolehan', 'NN'), ('dana', 'NN'), ('secara', 'IN'), ('cepat', 'JJ'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Jeritan', 'NN'), ('tanpa', 'IN'), ('suara', 'NN'), ('itu', 'PR'), (',', 'Z'), ('terasa', 'VB'), ('menyayat', 'VB'), ('sanubari', 'NN'), (',', 'Z'), ('membuat', 'VB'), ('kita', 'PRP'), ('bergegas', 'VB'), ('ingin', 'RB'), ('mengulurkan tangan', 'VB'), ('.', 'Z')]
+
+the word mau is a modal but not tagged as MD
+	mau is classified as RB
+	in sentence [('Bila', 'SC'), ('mereka', 'PRP'), ('tak', 'NEG'), ('mau', 'RB'), ('bekerja', 'VB'), (',', 'Z'), ('tentu', 'RB'), ('-nya', 'PRP'), ('tak', 'NEG'), ('bisa', 'MD'), ('mempertahankan', 'VB'), ('hidup', 'NN'), ('.', 'Z')]
+
+the word ikut is a modal but not tagged as MD
+	ikut is classified as VB
+	in sentence [('Di', 'IN'), ('samping', 'NN'), (',', 'Z'), ('itu', 'PR'), ('dengan', 'SC'), ('semakin', 'RB'), ('cepat', 'JJ'), ('-nya', 'PRP'), ('perkembangan', 'NN'), ('usaha', 'NN'), ('kecil', 'JJ'), ('akan', 'MD'), ('ikut', 'VB'), ('mendukung', 'VB'), ('perkembangan', 'NN'), ('usaha', 'NN'), ('besar', 'JJ'), (',', 'Z'), ('serta', 'CC'), ('sebaliknya', 'CC'), ('.', 'Z')]
+
+the word ikut is a modal but not tagged as MD
+	ikut is classified as VB
+	in sentence [('BRI', 'NNP'), ('ikut', 'VB'), ('mendanai', 'VB'), ('dalam', 'IN'), ('pemberian', 'NN'), ('kredit', 'NN'), ('dimaksud', 'VB'), (',', 'Z'), ('selain', 'CC'), ('mendapat', 'VB'), ('loan', 'FW'), ('dari', 'IN'), ('ADB', 'NNP'), ('dan', 'CC'), ('IFAD', 'NNP'), ('.', 'Z')]
+
+the word dapat is a modal but not tagged as MD
+	dapat is classified as VB
+	in sentence [('Masih', 'MD'), ('banyak', 'CD'), ('uang', 'NN'), ('menganggur', 'VB'), ('di', 'IN'), ('pedesaan', 'NN'), ('dan', 'CC'), ('di', 'IN'), ('sisi', 'NN'), ('lain', 'JJ'), (',', 'Z'), ('banyak', 'CD'), ('pula', 'RB'), ('calon-calon', 'NN'), ('pengusaha', 'NN'), ('atau', 'CC'), ('orang', 'NN'), ('yang', 'SC'), ('mempunyai', 'VB'), ('jiwa', 'NN'), ('wirausaha', 'NN'), ('namun', 'CC'), ('tidak', 'NEG'), ('mempunyai', 'VB'), ('modal', 'NN'), ('dan', 'CC'), ('kurang', 'RB'), ('dapat', 'VB'), ('akses', 'NN'), ('ke', 'IN'), ('perbankan', 'NN'), ('.', 'Z')]
+
+the word suka is a modal but not tagged as MD
+	suka is classified as VB
+	in sentence [('Pemerintah', 'NN'), ('lebih', 'RB'), ('suka', 'VB'), ('membuat', 'VB'), ('proyek', 'NN'), ('atau', 'CC'), ('lembaga', 'NN'), ('kredit', 'NN'), ('baru', 'JJ'), (',', 'Z'), ('dengan', 'IN'), ('suku', 'NN'), ('bunga', 'NN'), ('murah', 'JJ'), ('yang', 'SC'), ('mengakibatkan', 'VB'), ('LKM', 'NN'), ('sukar', 'JJ'), ('mengembangkan', 'VB'), ('usaha', 'NN'), ('-nya', 'PRP'), (',', 'Z'), ('daripada', 'IN'), ('membina', 'VB'), ('LKM', 'NN'), ('yang', 'SC'), ('sudah', 'MD'), ('ada', 'VB'), ('.', 'Z')]
+
+the word mau is a modal but not tagged as MD
+	mau is classified as RB
+	in sentence [('Tetapi', 'CC'), ('keluarga', 'NN'), ('ini', 'PR'), ('tidak', 'NEG'), ('mau', 'RB'), ('menganggap', 'VB'), ('mereka', 'PRP'), ('berpenghasilan', 'VB'), ('Rp', 'SYM'), ('2', 'CD'), ('juta', 'CD'), ('per', 'IN'), ('bulan', 'NN'), ('.', 'Z')]
+
+the word ikut is a modal but not tagged as MD
+	ikut is classified as VB
+	in sentence [('Ia', 'PRP'), ('adalah', 'VB'), ('salah satu', 'CD'), ('pendiri', 'NN'), ('Fretilin', 'NNP'), ('dan', 'CC'), ('kami', 'PRP'), ('akan', 'MD'), ('terus', 'RB'), ('berunjuk rasa', 'VB'), ('di', 'IN'), ('Dili', 'NNP'), ('hingga', 'IN'), ('pengadilan', 'NN'), ('-nya', 'PRP'), ('selesai', 'VB'), (',', 'Z'), ('kata', 'VB'), ('Mariano', 'NNP'), ('Andre', 'NNP'), ('yang', 'SC'), ('ikut', 'VB'), ('dalam', 'IN'), ('aksi', 'NN'), ('unjuk rasa', 'NN'), ('tersebut', 'PR'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Pemerintah', 'NN'), ('-nya', 'PRP'), ('ingin', 'RB'), ('menegakkan', 'VB'), ('kekuasaan', 'NN'), ('di', 'IN'), ('seluruh', 'CD'), ('wilayah', 'NN'), ('negara', 'NN'), ('Tanduk', 'NNP'), ('Afrika', 'NNP'), ('itu', 'PR'), ('setelah', 'SC'), ('terkurung', 'VB'), ('di', 'IN'), ('kota', 'NN'), ('selatan', 'NN'), ('tengah', 'NN'), ('Baidoa', 'NNP'), ('sejak', 'IN'), ('berkuasa', 'VB'), ('pada', 'IN'), ('2004', 'CD'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('PM', 'NNP'), ('Inggris', 'NNP'), ('itu', 'PR'), (',', 'Z'), ('yang', 'SC'), ('berada', 'VB'), ('di', 'IN'), ('ibu kota', 'NN'), ('Jerman', 'NNP'), ('tersebut', 'PR'), ('untuk', 'IN'), ('perayaan', 'NN'), ('yang', 'SC'), ('memperingati', 'VB'), ('tahun', 'NN'), ('ke-50', 'OD'), ('Uni', 'NNP'), ('Eropa', 'NNP'), ('(', 'Z'), ('EU', 'NNP'), (')', 'Z'), (',', 'Z'), ('mengatakan', 'VB'), (',', 'Z'), ('Inggris', 'NNP'), ('ingin', 'RB'), ('mengatasi', 'VB'), ('permasalahan', 'NN'), ('itu', 'PR'), ('melalui', 'VB'), ('cara-cara', 'NN'), ('diplomatik', 'JJ'), ('.', 'Z')]
+
+the word ikut is a modal but not tagged as MD
+	ikut is classified as VB
+	in sentence [('Perubahan', 'NN'), ('itu', 'PR'), ('juga', 'RB'), ('akan', 'MD'), ('mencegah', 'VB'), ('seorang', 'NND'), ('calon', 'NN'), ('independen', 'JJ'), ('untuk', 'SC'), ('ikut', 'VB'), ('dalam', 'IN'), ('pemilihan', 'NN'), ('presiden', 'NN'), ('mendatang', 'VB'), ('...', 'Z'), ('baik', 'JJ'), ('ia', 'PRP'), ('itu', 'PR'), ('seorang', 'NND'), ('Muslim', 'NN'), ('atau', 'CC'), ('bukan', 'NEG'), (',', 'Z'), ('kata', 'VB'), ('-nya', 'PRP'), ('dalam', 'IN'), ('suatu', 'CD'), ('wawancara', 'NN'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Raja', 'NNP'), ('Abdullah', 'NNP'), ('mengatakan', 'VB'), ('dalam', 'IN'), ('satu', 'CD'), ('wawancara', 'NN'), ('dengan', 'IN'), ('AFP', 'NNP'), (',', 'Z'), ('bahwa', 'SC'), ('Israel', 'NNP'), ('harus', 'MD'), ('mengakhiri', 'VB'), ('pendudukan', 'NN'), ('-nya', 'PRP'), ('atas', 'IN'), ('tanah', 'NN'), ('Arab', 'NNP'), ('jika', 'SC'), ('dia', 'PRP'), ('ingin', 'RB'), ('bekerja sama', 'VB'), ('dengan', 'IN'), ('dunia', 'NN'), ('Muslim', 'NN'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Washington', 'NNP'), ('ingin', 'RB'), ('sekutu-sekutu', 'NN'), ('Arab', 'NNP'), ('-nya', 'PRP'), (',', 'Z'), ('yakni', 'SC'), ('Jordania', 'NNP'), ('dan', 'CC'), ('Mesir', 'NNP'), ('menunjukkan', 'VB'), ('lebih', 'RB'), ('banyak', 'CD'), ('dukungan', 'NN'), ('umum', 'JJ'), ('kepada', 'IN'), ('pemerintah', 'NN'), ('Irak', 'NNP'), ('pimpinan', 'NN'), ('Perdana', 'NNP'), ('Menteri', 'NNP'), ('Nuri', 'NNP'), ('al-Maliki', 'NNP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('De', 'NNP'), ('Einder', 'NNP'), ('didirikan', 'VB'), ('pada', 'IN'), ('1995', 'CD'), ('untuk', 'SC'), ('memberikan', 'VB'), ('bantuan', 'NN'), ('profesional', 'JJ'), ('kepada', 'IN'), ('orang-orang', 'NN'), ('yang', 'SC'), ('ingin', 'RB'), ('bunuh', 'VB'), ('diri', 'NN'), ('baik', 'CC'), ('dengan', 'SC'), ('membujuk', 'VB'), ('mereka', 'PRP'), ('agar', 'SC'), ('tidak', 'NEG'), ('melakukan', 'VB'), ('hal', 'NN'), ('itu', 'PR'), ('atau', 'CC'), ('membantu', 'VB'), ('mereka', 'PRP'), ('melakukan', 'VB'), ('-nya', 'PRP'), ('jika', 'SC'), ('itu', 'PR'), ('merupakan', 'VB'), ('keputusan', 'NN'), ('mereka', 'PRP'), (',', 'Z'), ('kata', 'VB'), ('kelompok', 'NN'), ('itu', 'PR'), ('dalam', 'IN'), ('situs', 'NN'), ('berita', 'NN'), ('-nya', 'PRP'), ('di', 'IN'), ('Internet', 'NN'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Juru bicara', 'NN'), ('MDC', 'NNP'), ('sebelumnya', 'SC'), ('mengatakan', 'VB'), ('polisi', 'NN'), ('telah', 'MD'), ('menggunakan', 'VB'), ('semprotan', 'NN'), ('air', 'NN'), ('dan', 'CC'), ('gas air mata', 'NN'), ('serta', 'CC'), ('memukuli', 'VB'), ('pendukung', 'NN'), ('partai', 'NN'), ('yang', 'SC'), ('ingin', 'RB'), ('menghadiri', 'VB'), ('pawai', 'NN'), ('tersebut', 'PR'), ('yang', 'SC'), ('sebelumnya', 'SC'), ('dijadwalkan', 'VB'), ('dihadiri', 'VB'), ('oleh', 'IN'), ('pemimpin', 'NN'), ('MDC', 'NNP'), ('Morgan', 'NNP'), ('Tsangirai', 'NNP'), ('.', 'Z')]
+
+the word suka is a modal but not tagged as MD
+	suka is classified as VB
+	in sentence [('Namun', 'CC'), (',', 'Z'), ('lanjut', 'VB'), ('laporan', 'NN'), ('itu', 'PR'), (',', 'Z'), ('banyak', 'CD'), ('kelompok', 'NN'), ('perlawanan', 'NN'), ('lebih', 'RB'), ('suka', 'VB'), ('menggunakan', 'VB'), ('internet', 'NN'), ('untuk', 'SC'), ('menyebarkan', 'VB'), ('pesan', 'NN'), ('.', 'Z'), ('Di', 'IN'), ('kelompok', 'NN'), ('itu', 'PR'), (',', 'Z'), ('wartawan', 'NN'), ('dianggap', 'VB'), ('tidak', 'NEG'), ('penting', 'JJ'), (',', 'Z'), ('kata', 'VB'), ('-nya', 'PRP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Saya', 'PRP'), ('ingin', 'RB'), ('memberi tahu', 'VB'), ('masyarakat', 'NN'), (',', 'Z'), ('dari', 'IN'), ('tempat', 'NN'), ('ini', 'PR'), (',', 'Z'), ('bahwa', 'SC'), ('keamanan', 'NN'), ('pulih', 'VB'), ('di', 'IN'), ('Baghdad', 'NNP'), (',', 'Z'), ('kata', 'VB'), ('Gambar', 'NNP'), ('kepada', 'IN'), ('wartawan', 'NN'), ('.', 'Z')]
+
+the word mau is a modal but not tagged as MD
+	mau is classified as RB
+	in sentence [('Selandia', 'NNP'), ('Baru', 'NNP'), ('dan', 'CC'), ('Australia', 'NNP'), ('telah', 'MD'), ('mengutuk', 'VB'), ('kudeta', 'NN'), ('yang', 'SC'), ('dilakukan', 'VB'), ('Bainimarama', 'NNP'), ('dan', 'CC'), ('mengumumkan', 'VB'), ('sanksi', 'NN'), (',', 'Z'), ('termasuk', 'VB'), ('memperingatkan', 'VB'), ('bahwa', 'SC'), ('siapa saja', 'WH'), ('yang', 'SC'), ('mau', 'RB'), ('duduk', 'VB'), ('di', 'IN'), ('pemerintahan', 'NN'), ('Bainimarama', 'NNP'), ('akan', 'MD'), ('ditolak', 'VB'), ('masuk', 'VB'), ('ke', 'IN'), ('kedua', 'CD'), ('negara', 'NN'), ('tersebut', 'PR'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Saya', 'PRP'), ('tak', 'NEG'), ('ingin', 'RB'), ('dengan', 'SC'), ('cara', 'NN'), ('apa pun', 'WH'), ('menguasai', 'VB'), ('dialog', 'NN'), ('bilateral', 'JJ'), ('Palestina', 'NNP'), ('-', 'Z'), ('Israel', 'NNP'), (',', 'Z'), ('kata', 'VB'), ('Rice', 'NNP'), ('setelah', 'SC'), ('pertemuan', 'NN'), ('dengan', 'IN'), ('Menteri', 'NNP'), ('Luar', 'NNP'), ('Negeri', 'NNP'), ('Israel', 'NNP'), ('Tzipi', 'NNP'), ('Livni', 'NNP'), (',', 'Z'), ('sekembali', 'VB'), ('-nya', 'PRP'), ('ke', 'IN'), ('Jerusalem', 'NNP'), ('dari', 'IN'), ('Amman', 'NNP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Raja', 'NNP'), ('Jordania', 'NNP'), ('Abdullah', 'NNP'), ('II', 'NNP'), (',', 'Z'), ('Senin', 'NNP'), (',', 'Z'), ('mendesak', 'VB'), ('Israel', 'NNP'), ('agar', 'SC'), ('menerima', 'VB'), ('baik', 'JJ'), ('gagasan', 'NN'), ('perdamaian', 'NN'), ('Arab', 'NNP'), ('dan', 'CC'), ('meninggalkan', 'VB'), ('wilayah', 'NN'), ('yang', 'SC'), ('diduduki', 'VB'), ('-nya', 'PRP'), ('dalam', 'IN'), ('perang', 'NN'), ('1967', 'CD'), (',', 'Z'), ('jika', 'SC'), ('Tel', 'NNP'), ('Aviv', 'NNP'), ('ingin', 'RB'), ('hidup', 'NN'), ('secara', 'IN'), ('damai', 'JJ'), ('dengan', 'SC'), ('negara', 'NN'), ('Arab', 'NNP'), ('.', 'Z')]
+
+the word ikut is a modal but not tagged as MD
+	ikut is classified as VB
+	in sentence [('Pemilihan', 'NN'), ('umum', 'JJ'), ('yang', 'SC'), ('disengketakan', 'VB'), ('pada', 'IN'), ('tahun', 'NN'), ('1998', 'CD'), (',', 'Z'), ('ketika', 'SC'), ('Mosisili', 'NNP'), ('pertama', 'OD'), ('kali', 'NND'), ('naik', 'VB'), ('ke', 'IN'), ('kekuasaan', 'NN'), (',', 'Z'), ('juga', 'RB'), ('mengakibatkan', 'VB'), ('protes', 'NN'), ('besar', 'JJ'), ('yang', 'SC'), ('hanya', 'RB'), ('bisa', 'MD'), ('diatasi', 'VB'), ('pada', 'IN'), ('saat', 'NN'), ('militer', 'NN'), ('Afrika', 'NNP'), ('Selatan', 'NNP'), ('dan', 'CC'), ('Boswana', 'NNP'), ('ikut', 'VB'), ('-', 'Z'), ('campur tangan', 'VB'), ('di', 'IN'), ('kerajaan', 'NN'), ('pegunungan', 'NN'), ('yang', 'SC'), ('mungil', 'JJ'), ('itu', 'PR'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Itu', 'PR'), ('lah', 'RP'), ('yang', 'SC'), ('ingin', 'RB'), ('saya', 'PRP'), ('katakan', 'VB'), ('sekarang', 'NN'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Saya', 'PRP'), ('tidak', 'NEG'), ('ingin', 'RB'), ('mencoba', 'VB'), ('mengharap', 'VB'), ('sesuatu', 'PRP'), ('yang', 'SC'), ('muluk-muluk', 'JJ'), ('.', 'Z')]
+
+the word mau is a modal but not tagged as MD
+	mau is classified as RB
+	in sentence [('Mereka', 'PRP'), ('menutup', 'VB'), ('dua', 'CD'), ('jembatan', 'NN'), ('yang', 'SC'), ('merupakan', 'VB'), ('jalan masuk', 'NN'), ('utama', 'JJ'), ('ke', 'IN'), ('provinsi', 'NN'), ('itu', 'PR'), (',', 'Z'), ('kata', 'VB'), ('narasumber', 'NN'), ('dari', 'IN'), ('Unit', 'NNP'), ('Pertahanan', 'NNP'), ('Sipil', 'NNP'), ('Neuquen', 'NNP'), (',', 'Z'), ('yang', 'SC'), ('tidak', 'NEG'), ('mau', 'RB'), ('disebutkan', 'VB'), ('nama', 'NN'), ('-nya', 'PRP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Jaringan', 'NN'), ('pemburu', 'NN'), ('liar', 'JJ'), ('yang', 'SC'), ('sama', 'JJ'), ('telah', 'MD'), ('memburu', 'VB'), ('singa', 'NN'), ('India', 'NNP'), (',', 'Z'), ('kata', 'VB'), ('seorang', 'NND'), ('perwira', 'NN'), ('polisi', 'NN'), ('satu', 'CD'), ('negara bagian', 'NN'), ('yang', 'SC'), ('tak', 'NEG'), ('ingin', 'RB'), ('disebutkan', 'VB'), ('jati diri', 'NN'), ('-nya', 'PRP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Pegiat', 'NN'), ('margasatwa', 'NN'), ('mengatakan', 'VB'), ('singa', 'NN'), ('tersebut', 'PR'), ('juga', 'RB'), ('menghadapi', 'VB'), ('ancaman', 'NN'), ('dari', 'IN'), ('ribuan', 'CD'), ('warga', 'NN'), ('desa', 'NN'), ('yang', 'SC'), ('tinggal', 'VB'), ('di', 'IN'), ('dalam', 'NN'), ('hutan', 'NN'), ('dan', 'CC'), ('sekitar', 'IN'), ('-nya', 'PRP'), ('dan', 'CC'), ('ingin', 'RB'), ('mereka', 'PRP'), ('dipindahkan', 'VB'), ('guna', 'SC'), ('menyelamatkan', 'VB'), ('spesies', 'NN'), ('terancam', 'VB'), ('itu', 'PR'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Keith', 'NNP'), ('Ellison', 'NNP'), (',', 'Z'), ('anggota', 'NN'), ('partai', 'NN'), ('Demokrat', 'NNP'), ('dari', 'IN'), ('Minnesota', 'NNP'), (',', 'Z'), ('mengatakan', 'VB'), ('bahwa', 'SC'), ('sebetulnya', 'RB'), ('ia', 'PRP'), ('ingin', 'RB'), ('melakukan', 'VB'), ('Umrah', 'NN'), (',', 'Z'), ('tapi', 'CC'), ('ia', 'PRP'), ('tidak', 'NEG'), ('sempat', 'MD'), ('karena', 'IN'), ('jadwal', 'NN'), ('kunjungan', 'NN'), ('delegasi', 'NN'), ('Kongres', 'NNP'), ('AS', 'NNP'), ('itu', 'PR'), ('sangat', 'RB'), ('ketat', 'JJ'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Kalau', 'SC'), ('anda', 'PRP'), ('ingin', 'RB'), ('mencapai', 'VB'), ('perdamaian', 'NN'), (',', 'Z'), ('anda', 'PRP'), ('harus', 'MD'), ('membicarakan', 'VB'), ('tentang', 'IN'), ('masalah-masalah', 'NN'), ('yang', 'SC'), ('menghalangi', 'VB'), ('tercipta', 'VB'), ('-nya', 'PRP'), ('perdamaian', 'NN'), ('itu', 'PR'), (',', 'Z'), ('kata', 'VB'), ('-nya', 'PRP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Unjuk rasa', 'NN'), ('itu', 'PR'), ('dijadwalkan', 'VB'), ('dimulai', 'VB'), ('Senin', 'NNP'), ('waktu', 'NN'), ('setempat', 'NN'), ('di', 'IN'), ('luar', 'NN'), ('masjid', 'NN'), ('Sadr', 'NNP'), ('di', 'IN'), ('Kufa', 'NNP'), ('dan', 'CC'), ('bergerak', 'VB'), ('memasuki', 'VB'), ('kota suci', 'NN'), ('kembar', 'JJ'), ('Syiah', 'NNP'), (',', 'Z'), ('Najaf', 'NNP'), (',', 'Z'), ('kata', 'VB'), ('seorang', 'NND'), ('pejabat', 'NN'), ('yang', 'SC'), ('tak', 'NEG'), ('ingin', 'RB'), ('disebutkan', 'VB'), ('jati diri', 'NN'), ('-nya', 'PRP'), ('di', 'IN'), ('kantor', 'NN'), ('As', 'NNP'), ('-', 'NNP'), ('Sadr', 'NNP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Persentase', 'NN'), ('orang', 'NN'), ('Amerika', 'NNP'), ('yang', 'SC'), ('melakukan', 'VB'), ('diet', 'NN'), ('berada', 'VB'), ('pada', 'IN'), ('titik', 'NN'), ('terendah', 'JJ'), ('dalam', 'IN'), ('16', 'CD'), ('tahun', 'NN'), ('bahkan', 'RB'), ('sekalipun', 'SC'), ('mayoritas', 'CD'), ('orang', 'NN'), ('dewasa', 'JJ'), ('mengatakan', 'VB'), ('mereka', 'PRP'), ('ingin', 'RB'), ('mengurangi', 'VB'), ('9', 'CD'), ('kilogram', 'NND'), (',', 'Z'), ('demikian', 'PR'), ('hasil', 'NN'), ('suatu', 'CD'), ('studi', 'NN'), ('yang', 'SC'), ('disiarkan', 'VB'), ('Rabu', 'NNP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Namun', 'CC'), ('tetap', 'RB'), ('saja', 'RB'), (',', 'Z'), ('60', 'CD'), ('persen', 'CD'), ('orang', 'NN'), ('dewasa', 'JJ'), ('di', 'IN'), ('AS', 'NNP'), ('berkata', 'VB'), (',', 'Z'), ('Mereka', 'PRP'), ('ingin', 'RB'), ('mengurangi', 'VB'), ('berat', 'NN'), ('badan', 'NN'), ('sebanyak', 'CD'), ('9', 'CD'), ('kilogram', 'NND'), (',', 'Z'), ('kata', 'VB'), ('studi', 'NN'), ('itu', 'PR'), ('.', 'Z')]
+
+the word senang is a modal but not tagged as MD
+	senang is classified as JJ
+	in sentence [('Saya', 'PRP'), ('percaya', 'VB'), ('bahwa', 'SC'), ('pendidikan', 'NN'), ('adalah', 'VB'), ('satu', 'CD'), ('alat', 'NN'), ('yang', 'SC'), ('sangat', 'RB'), ('diperlukan', 'VB'), ('untuk', 'SC'), ('memajukan', 'VB'), ('umat manusia', 'NN'), ('dan', 'CC'), ('menciptakan', 'VB'), ('perdamaian', 'NN'), (',', 'Z'), ('dan', 'CC'), ('saya', 'PRP'), ('dengan', 'IN'), ('senang', 'JJ'), ('hati', 'NN'), ('memberikan', 'VB'), ('kontribusi', 'NN'), ('kecil', 'JJ'), ('dalam', 'IN'), ('kehormatan', 'NN'), ('ini', 'PR'), ('melalui', 'VB'), ('pemilihan', 'NN'), ('ini', 'PR'), (',', 'Z'), ('kata', 'VB'), ('Dalai', 'NNP'), ('Lama', 'NNP'), ('dalam', 'IN'), ('pernyataan', 'NN'), ('-nya', 'PRP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Sejumlah', 'CD'), ('pejabat', 'NN'), ('kepolisian', 'NN'), ('mengatakan', 'VB'), (',', 'Z'), ('pria', 'NN'), ('yang', 'SC'), ('berusia', 'VB'), ('pertengahan', 'NN'), ('40-an', 'CD'), ('itu', 'PR'), ('kini', 'NN'), ('diinterogasi', 'VB'), (',', 'Z'), ('namun', 'CC'), ('masih', 'MD'), ('belum', 'NEG'), ('jelas', 'JJ'), ('apakah', 'WH'), ('ia', 'PRP'), ('ingin', 'RB'), ('melukai', 'VB'), ('Sonia', 'NNP'), ('.', 'Z')]
+
+the word mau is a modal but not tagged as MD
+	mau is classified as RB
+	in sentence [('Seorang', 'NND'), ('prajurit', 'NN'), ('mengeluarkan', 'VB'), ('pistol', 'NN'), ('-nya', 'PRP'), ('dan', 'CC'), ('menembak', 'VB'), ('dia', 'PRP'), ('di', 'IN'), ('kepala', 'NN'), (',', 'Z'), ('kata', 'VB'), ('seorang', 'NND'), ('saksi mata', 'NN'), ('yang', 'SC'), ('tak', 'NEG'), ('mau', 'RB'), ('disebutkan', 'VB'), ('jati diri', 'NN'), ('-nya', 'PRP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Menurut', 'IN'), ('sumber-sumber', 'NN'), ('yang', 'SC'), ('dilansir', 'VB'), ('Yonhap', 'NNP'), (',', 'Z'), ('Korsel', 'NNP'), ('ingin', 'RB'), ('menggunakan', 'VB'), ('bantuan', 'NN'), ('-nya', 'PRP'), ('berupa', 'VB'), ('pangan', 'NN'), ('dan', 'CC'), ('pupuk', 'NN'), ('sebagai', 'IN'), ('alat', 'NN'), ('untuk', 'SC'), ('menekan', 'VB'), ('Korut', 'NNP'), ('agar', 'SC'), ('menghormati', 'VB'), ('kesepakatan', 'NN'), ('yang', 'SC'), ('dicapai', 'VB'), ('enam', 'CD'), ('negara', 'NN'), ('pihak', 'NN'), ('untuk', 'SC'), ('melucuti', 'VB'), ('program', 'NN'), ('nuklir', 'NN'), ('-nya', 'PRP'), ('.', 'Z')]
+
+the word mau is a modal but not tagged as MD
+	mau is classified as RB
+	in sentence [('Seorang', 'NND'), ('pejabat', 'NN'), ('senior', 'JJ'), ('kementerian', 'NN'), ('unifikasi', 'NN'), ('yang', 'SC'), ('tak', 'NEG'), ('mau', 'RB'), ('disebut', 'VB'), ('identitas', 'NN'), ('-nya', 'PRP'), ('mengatakan', 'VB'), ('bahwa', 'SC'), ('tidak', 'NEG'), ('seperti', 'IN'), ('pembicaraan', 'NN'), ('tingkat', 'NN'), ('menteri', 'NN'), ('sebelumnya', 'SC'), (',', 'Z'), ('pertemuan', 'NN'), ('kali', 'NND'), ('ini', 'PR'), ('meliputi', 'VB'), ('hubungan', 'NN'), ('antarmasyarakat', 'X'), ('Korea', 'NNP'), (',', 'Z'), ('dan', 'CC'), ('pembicaraan', 'NN'), ('enam', 'CD'), ('pihak', 'NN'), (',', 'Z'), ('dan', 'CC'), ('perundingan', 'NN'), ('ini', 'PR'), ('masih', 'MD'), ('mengalami', 'VB'), ('kesulitan', 'NN'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Anggota-anggota', 'NN'), ('oposisi', 'NN'), ('ingin', 'RB'), ('menggalang', 'VB'), ('dukungan', 'NN'), ('bagi', 'IN'), ('boikot', 'VB'), ('terhadap', 'IN'), ('referendum', 'NN'), ('yang', 'SC'), ('dijadwalkan', 'VB'), ('berlangsung', 'VB'), ('Senin', 'NNP'), ('mengenai', 'IN'), ('perubahan', 'NN'), ('34', 'CD'), ('pasal', 'NN'), ('konstitusi', 'NN'), (',', 'Z'), ('yang', 'SC'), ('dianggap', 'VB'), ('pemerintah', 'NN'), ('sebagai', 'IN'), ('dorongan', 'NN'), ('bagi', 'IN'), ('demokrasi', 'NN'), ('namun', 'CC'), ('disebut', 'VB'), ('pengecam', 'NN'), ('sebagai', 'IN'), ('upaya', 'NN'), ('untuk', 'SC'), ('memperluas', 'VB'), ('kekuasaan', 'NN'), ('presiden', 'NN'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Pabrik', 'NN'), ('senjata', 'NN'), ('Belarus', 'NNP'), ('ingin', 'RB'), ('menjadikan', 'VB'), ('Presiden', 'NNP'), ('Venezuela', 'NNP'), ('Hugo', 'NNP'), ('Chavez', 'NNP'), ('sebagai', 'IN'), ('salah satu', 'CD'), ('pelanggan', 'NN'), ('utama', 'JJ'), ('mereka', 'PRP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Rakyat', 'NN'), ('Chechnya', 'NNP'), ('ingin', 'RB'), ('menjadi', 'VB'), ('bagian', 'NN'), ('dari', 'IN'), ('Rusia', 'NNP'), (',', 'Z'), ('kata', 'VB'), ('-nya', 'PRP'), ('.', 'Z')]
+
+the word ikut is a modal but not tagged as MD
+	ikut is classified as VB
+	in sentence [('China', 'NNP'), ('telah', 'MD'), ('mengirimkan', 'VB'), ('6.000', 'CD'), ('personel', 'NN'), ('militer', 'NN'), ('-nya', 'PRP'), ('untuk', 'SC'), ('ikut', 'VB'), ('ambil', 'VB'), ('bagian', 'NN'), ('dalam', 'IN'), ('16', 'CD'), ('operasi', 'NN'), ('penjagaan', 'NN'), ('perdamaian', 'NN'), ('PBB', 'NNP'), ('sejak', 'IN'), ('badan', 'NN'), ('dunia', 'NN'), ('itu', 'PR'), ('memberikan', 'VB'), ('kontribusi', 'NN'), ('pertama', 'OD'), ('-nya', 'PRP'), ('pada', 'IN'), ('operasi-operasi', 'NN'), ('PBB', 'NNP'), ('dalam', 'IN'), ('tahun', 'NN'), ('1990-an', 'CD'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Iran', 'NNP'), ('menyatakan', 'VB'), ('negara', 'NN'), ('tersebut', 'PR'), ('hanya', 'RB'), ('ingin', 'RB'), ('memperkaya', 'VB'), ('uranium', 'NN'), ('untuk', 'IN'), ('tujuan', 'NN'), ('energi', 'NN'), ('damai', 'JJ'), ('.', 'Z')]
+
+the word mau is a modal but not tagged as MD
+	mau is classified as RB
+	in sentence [('Saya', 'PRP'), ('memberi tahu', 'VB'), ('mereka', 'PRP'), ('saya', 'PRP'), ('akan', 'MD'), ('datang', 'VB'), ('ke', 'IN'), ('New', 'NNP'), ('York', 'NNP'), (',', 'Z'), ('siap', 'VB'), ('untuk', 'IN'), ('berdebat', 'VB'), (',', 'Z'), ('tapi', 'CC'), ('mereka', 'PRP'), ('tak', 'NEG'), ('mau', 'RB'), ('menerima', 'VB'), ('-nya', 'PRP'), (',', 'Z'), ('kata', 'VB'), ('-nya', 'PRP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Negara', 'NN'), ('yang', 'SC'), ('memiliki', 'VB'), ('nuklir', 'NN'), ('tak', 'NEG'), ('ingin', 'RB'), ('yang', 'SC'), ('lain', 'JJ'), ('bergabung', 'VB'), ('dengan', 'IN'), ('mereka', 'PRP'), ('--', 'Z'), ('ya', 'RP'), (',', 'Z'), ('AS', 'NNP'), ('menekan', 'VB'), ('kita', 'PRP'), (',', 'Z'), ('kata', 'VB'), ('-nya', 'PRP'), ('.', 'Z')]
+
+the word ikut is a modal but not tagged as MD
+	ikut is classified as VB
+	in sentence [('Menteri', 'NNP'), ('Luar', 'NNP'), ('Negeri', 'NNP'), ('Kanada', 'NNP'), ('Peter', 'NNP'), ('Mackay', 'NNP'), (',', 'Z'), ('Menteri', 'NNP'), ('Keselamatan', 'NNP'), ('Umum', 'NNP'), ('Stockwell', 'NNP'), ('Day', 'NNP'), ('dan', 'CC'), ('Menteri', 'NNP'), ('Industri', 'NNP'), ('Maxime', 'NNP'), ('Bernier', 'NNP'), ('akan', 'MD'), ('ikut', 'VB'), ('ambil', 'VB'), ('bagian', 'NN'), ('dalam', 'IN'), ('pertemuan', 'NN'), ('tersebut', 'PR'), ('.', 'Z')]
+
+the word ikut is a modal but not tagged as MD
+	ikut is classified as VB
+	in sentence [('Ketiga', 'CD'), ('negara', 'NN'), ('juga', 'RB'), ('ikut', 'VB'), ('ambil', 'VB'), ('bagian', 'NN'), ('dalam', 'IN'), ('Perjanjian', 'NNP'), ('Perdagangan', 'NNP'), ('Bebas', 'NNP'), ('Amerika', 'NNP'), ('Utara', 'NNP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Namun', 'CC'), ('hasil', 'NN'), ('pemungutan suara', 'NN'), ('yang', 'SC'), ('disiarkan', 'VB'), ('Rabu', 'NNP'), ('hanya', 'RB'), ('memperlihatkan', 'VB'), ('empat', 'CD'), ('dari', 'IN'), ('10', 'CD'), ('orang', 'NN'), ('Italia', 'NNP'), ('ingin', 'RB'), ('pemimpin', 'NN'), ('sayap', 'NN'), ('kiri', 'NN'), ('-', 'Z'), ('tengah', 'NN'), ('itu', 'PR'), ('tetap', 'RB'), ('memangku', 'VB'), ('jabatan', 'NN'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Saya', 'PRP'), ('ingin', 'RB'), ('suami', 'NN'), ('saya', 'PRP'), ('tidur', 'VB'), ('di', 'IN'), ('suatu', 'CD'), ('tempat', 'NN'), ('yang', 'SC'), ('aman', 'JJ'), (',', 'Z'), ('sebab', 'SC'), ('saya', 'PRP'), ('takut', 'JJ'), ('mengenai', 'IN'), ('kesehatan', 'NN'), ('-nya', 'PRP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Komite', 'NN'), ('tersebut', 'PR'), ('menyatakan', 'VB'), ('akibat', 'NN'), ('-nya', 'PRP'), ('ialah', 'VB'), ('beberapa', 'CD'), ('sekolah', 'NN'), ('menghindari', 'VB'), ('laporan', 'NN'), ('mengenai', 'IN'), ('peristiwa', 'NN'), ('gangguan', 'NN'), ('karena', 'SC'), ('mereka', 'PRP'), ('ingin', 'RB'), ('menghindari', 'VB'), ('menyandang', 'VB'), ('reputasi', 'NN'), ('buruk', 'JJ'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Saya', 'PRP'), ('hanya', 'RB'), ('ingin', 'RB'), ('mengakhiri', 'VB'), ('dan', 'CC'), ('pulang', 'VB'), (',', 'Z'), ('kata', 'VB'), ('-nya', 'PRP'), ('di', 'IN'), ('situs', 'NN'), ('-nya', 'PRP'), ('.', 'Z')]
+
+the word mau is a modal but not tagged as MD
+	mau is classified as RB
+	in sentence [('Saya', 'PRP'), ('kira', 'VB'), ('hewan-hewan', 'NN'), ('mau', 'RB'), ('menerima', 'VB'), ('saya', 'PRP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Dalam', 'IN'), ('keadaan', 'NN'), ('genting', 'JJ'), ('ini', 'PR'), ('saya', 'PRP'), ('ingin', 'RB'), ('sekali', 'RB'), ('menyampaikan', 'VB'), ('rasa', 'NN'), ('hormat', 'JJ'), ('saya', 'PRP'), ('kepada', 'IN'), ('para', 'DT'), ('tentara', 'NN'), ('yang', 'SC'), ('bertugas', 'VB'), (',', 'Z'), ('kata', 'VB'), ('Hillary', 'NNP'), ('Clinton', 'NNP'), ('dalam', 'IN'), ('pernyataan', 'NN'), ('sebelum', 'SC'), ('melakukan', 'VB'), ('kunjungan', 'NN'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Saya', 'PRP'), ('juga', 'RB'), ('ingin', 'RB'), ('sekali', 'RB'), ('mendengar', 'VB'), ('dari', 'IN'), ('para', 'DT'), ('komandan', 'NN'), ('mengenai', 'IN'), ('penilaian', 'NN'), ('yang', 'SC'), ('jujur', 'JJ'), ('terhadap', 'IN'), ('misi', 'NN'), ('kita', 'PRP'), ('di', 'IN'), ('negara-negara', 'NN'), ('tersebut', 'PR'), (',', 'Z'), ('kata', 'VB'), ('-nya', 'PRP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Semua', 'CD'), ('bukti', 'NN'), ('menunjukkan', 'VB'), ('bahwa', 'SC'), ('roket', 'NN'), ('telah', 'MD'), ('ditembakkan', 'VB'), ('dari', 'IN'), ('satu', 'CD'), ('tempat', 'NN'), ('kerja', 'NN'), ('yang', 'SC'), ('bersebelahan', 'VB'), (',', 'Z'), ('tempat', 'NN'), ('satu', 'CD'), ('bangunan', 'NN'), ('belum', 'NEG'), ('lama', 'JJ'), ('ini', 'PR'), ('dihancurkan', 'VB'), (',', 'Z'), ('kata', 'VB'), ('seorang', 'NND'), ('perwira', 'NN'), ('polisi', 'NN'), ('yang', 'SC'), ('tak', 'NEG'), ('ingin', 'RB'), ('disebutkan', 'VB'), ('jati diri', 'NN'), ('-nya', 'PRP'), ('.', 'Z')]
+
+the word mau is a modal but not tagged as MD
+	mau is classified as RB
+	in sentence [('Kami', 'PRP'), ('tidak', 'NEG'), ('mau', 'RB'), ('membuang-buang', 'VB'), ('waktu', 'NN'), ('dengan', 'SC'), ('pernyataan', 'NN'), ('abstrak', 'JJ'), (',', 'Z'), ('kami', 'PRP'), ('menghendaki', 'VB'), ('hasil', 'NN'), ('konkret', 'JJ'), (',', 'Z'), ('kata', 'VB'), ('Erdogan', 'NNP'), (',', 'Z'), ('yang', 'SC'), ('mengatakan', 'VB'), ('situasi', 'NN'), ('Irak', 'NNP'), ('kini', 'NN'), ('menjadi', 'VB'), ('masalah', 'NN'), ('politik', 'NN'), ('luar negeri', 'NN'), ('yang', 'SC'), ('lebih', 'RB'), ('besar', 'JJ'), ('bagi', 'IN'), ('Turki', 'NNP'), ('dibanding', 'VB'), ('dengan', 'SC'), ('usaha', 'NN'), ('mereka', 'PRP'), ('menjadi', 'VB'), ('anggota', 'NN'), ('Uni', 'NNP'), ('Eropa', 'NNP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Ia', 'PRP'), ('menyatakan', 'VB'), (',', 'Z'), ('pembajak', 'NN'), ('pesawat', 'NN'), ('itu', 'PR'), ('adalah', 'VB'), ('seorang', 'NND'), ('pengungsi', 'NN'), ('Sudan', 'NNP'), ('yang', 'SC'), ('ingin', 'RB'), ('rute', 'NN'), ('pesawat', 'NN'), ('tersebut', 'PR'), ('dialihkan', 'VB'), ('ke', 'IN'), ('Inggris', 'NNP'), (',', 'Z'), ('namun', 'CC'), ('hal', 'NN'), ('itu', 'PR'), ('masih', 'MD'), ('belum', 'NEG'), ('bisa', 'MD'), ('dikonfirmasi', 'VB'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Negara', 'NN'), ('Barat', 'NNP'), ('sangat', 'RB'), ('ingin', 'RB'), ('memperlihatkan', 'VB'), ('kepada', 'IN'), ('rakyat', 'NN'), ('Lebanon', 'NNP'), ('bahwa', 'SC'), ('Barat', 'NNP'), ('belum', 'NEG'), ('meninggalkan', 'VB'), ('mereka', 'PRP'), ('setelah', 'SC'), ('perang', 'NN'), ('yang', 'SC'), ('menghancurkan', 'VB'), ('negeri', 'NN'), ('tersebut', 'PR'), ('Juli', 'NNP'), ('dan', 'CC'), ('Agustus', 'NNP'), ('lalu', 'CC'), ('melawan', 'VB'), ('Israel', 'NNP'), ('.', 'Z'), ('Banyak', 'CD'), ('daerah', 'NN'), ('yang', 'SC'), ('kebanyakan', 'CD'), ('penghuni', 'NN'), ('-nya', 'PRP'), ('adalah', 'VB'), ('pemeluk', 'NN'), ('Syiah', 'NNP'), ('menjadi', 'VB'), ('puing', 'NN'), ('.', 'Z')]
+
+the word mau is a modal but not tagged as MD
+	mau is classified as RB
+	in sentence [('Akan', 'MD'), ('dilakukan', 'VB'), ('berkali-kali', 'RB'), ('jika', 'SC'), ('di sana', 'PR'), ('ada', 'VB'), ('kegiatan-kegiatan', 'NN'), ('dan', 'CC'), ('operasi-operasi', 'NN'), ('seperti', 'IN'), ('yang', 'SC'), ('saya', 'PRP'), ('katakan', 'VB'), (',', 'Z'), ('dan', 'CC'), ('akan', 'MD'), ('ada', 'VB'), ('pula', 'RB'), ('beberapa', 'CD'), ('kali', 'NND'), ('lain', 'JJ'), ('-nya', 'PRP'), ('manakala', 'SC'), ('saya', 'PRP'), ('mau', 'RB'), (',', 'Z'), ('kata', 'VB'), ('juru bicara', 'NN'), ('Pentagon', 'NNP'), (',', 'Z'), ('Bryan', 'NNP'), ('Whitman', 'NNP'), ('.', 'Z')]
+
+the word suka is a modal but not tagged as MD
+	suka is classified as VB
+	in sentence [('Ditanya', 'VB'), ('apakah', 'WH'), ('dia', 'PRP'), ('akan', 'MD'), ('lebih', 'RB'), ('suka', 'VB'), ('jika', 'SC'), ('jumlah', 'NN'), ('tentara', 'NN'), ('inggris', 'NNP'), ('sampai', 'IN'), ('tinggal', 'VB'), ('sekitar', 'IN'), ('7.100', 'CD'), ('orang', 'NN'), ('di', 'IN'), ('Irak', 'NNP'), ('Selatan', 'NNP'), (',', 'Z'), ('dubes', 'NNP'), ('menjawab', 'VB'), (':', 'Z'), ('Kami', 'PRP'), ('ingin', 'RB'), ('agar', 'SC'), ('inggris', 'NNP'), ('melakukan', 'VB'), ('koordinasi', 'NN'), ('dan', 'CC'), ('mempunyai', 'VB'), ('satu', 'CD'), ('rencana', 'NN'), ('gabungan', 'NN'), ('bagi', 'IN'), ('kami', 'PRP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Ditanya', 'VB'), ('apakah', 'WH'), ('dia', 'PRP'), ('akan', 'MD'), ('lebih', 'RB'), ('suka', 'VB'), ('jika', 'SC'), ('jumlah', 'NN'), ('tentara', 'NN'), ('inggris', 'NNP'), ('sampai', 'IN'), ('tinggal', 'VB'), ('sekitar', 'IN'), ('7.100', 'CD'), ('orang', 'NN'), ('di', 'IN'), ('Irak', 'NNP'), ('Selatan', 'NNP'), (',', 'Z'), ('dubes', 'NNP'), ('menjawab', 'VB'), (':', 'Z'), ('Kami', 'PRP'), ('ingin', 'RB'), ('agar', 'SC'), ('inggris', 'NNP'), ('melakukan', 'VB'), ('koordinasi', 'NN'), ('dan', 'CC'), ('mempunyai', 'VB'), ('satu', 'CD'), ('rencana', 'NN'), ('gabungan', 'NN'), ('bagi', 'IN'), ('kami', 'PRP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Satu', 'CD'), ('jajak', 'VB'), ('-', 'Z'), ('pendapat', 'NN'), ('surat kabar', 'NN'), ('baru-baru ini', 'RB'), ('menunjukkan', 'VB'), (',', 'Z'), ('56', 'CD'), ('persen', 'CD'), ('dari', 'IN'), ('warga', 'NN'), ('Italia', 'NNP'), ('sekarang', 'NN'), ('cenderung', 'JJ'), ('ingin', 'RB'), ('menarik', 'VB'), ('pasukan', 'NN'), ('-nya', 'PRP'), ('dari', 'IN'), ('Afghanistan', 'NNP'), ('.', 'Z')]
+
+the word ingin is a modal but not tagged as MD
+	ingin is classified as RB
+	in sentence [('Saya', 'PRP'), ('akan', 'MD'), ('bicara', 'VB'), ('kepada', 'IN'), ('anda', 'PRP'), ('dalam', 'IN'), ('satu bahasa', 'NN'), ('yang', 'SC'), ('anda', 'PRP'), ('mengerti', 'VB'), (';', 'Z'), ('jika', 'SC'), ('anda', 'PRP'), ('ingin', 'RB'), ('hidup', 'NN'), ('selamat', 'JJ'), (',', 'Z'), ('anda', 'PRP'), ('hendaknya', 'RB'), ('menerima kenyataan', 'VB'), ('dan', 'CC'), ('menolak', 'VB'), ('angan-angan', 'NN'), ('bahwa', 'SC'), ('(', 'Z'), ('Presiden', 'NNP'), ('AS', 'NNP'), ('George', 'NNP'), ('W.', 'NNP'), ('Bush', 'NNP'), (')', 'Z'), ('Bush', 'NNP'), ('sedang', 'MD'), ('berusaha', 'VB'), ('menipu', 'VB'), ('anda', 'PRP'), (',', 'Z'), ('kata', 'VB'), ('-nya', 'PRP'), ('dalam', 'IN'), ('video', 'NN'), ('tersebut', 'PR'), ('.', 'Z')]
+
