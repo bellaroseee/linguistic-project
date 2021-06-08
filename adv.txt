@@ -110,7 +110,7 @@ secukupnya
 sepengetahuan
 begitu
 memangnya
-baru-baru ini
+baru-baru ini -> recently
 kelihatannya
 belaka
 entah
@@ -144,9 +144,9 @@ justru
 kurang lebih
 seminimal mungkin
 cuma-cuma
-ke depan
+ke depan -> in the future
 sungguh
 sekali
 kiranya
 tidak dapat
-kemudian
+kemudian -> next 
